@@ -44,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/mohammedsuhail364/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+## String
+|  |
+| ------- |
+| [3636-check-balanced-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/3636-check-balanced-string) |
 <!---LeetCode Topics End-->
