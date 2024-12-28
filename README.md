@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0001-two-sum) |
 | [0494-target-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0494-target-sum) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/mohammedsuhail364/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [3644-minimum-positive-sum-subarray](https://github.com/mohammedsuhail364/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Hash Table
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0494-target-sum) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/mohammedsuhail364/LeetCode/tree/master/1063-best-sightseeing-pair) |
 ## Backtracking
 |  |
