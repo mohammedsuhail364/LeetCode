@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/mohammedsuhail364/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/mohammedsuhail364/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [3636-check-balanced-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/3636-check-balanced-string) |
 ## Dynamic Programming
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mohammedsuhail364/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
