@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/mohammedsuhail364/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/mohammedsuhail364/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2058-concatenation-of-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2358-number-of-ways-to-split-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3644-minimum-positive-sum-subarray](https://github.com/mohammedsuhail364/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Hash Table
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [3644-minimum-positive-sum-subarray](https://github.com/mohammedsuhail364/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Depth-First Search
 |  |
