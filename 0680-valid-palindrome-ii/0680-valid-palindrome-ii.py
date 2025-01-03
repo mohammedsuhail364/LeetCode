@@ -11,7 +11,7 @@ class Solution:
         r=len(s)-1
         while l<r:
             if s[l]!=s[r]:
-                return (s[l+1:r+1]==s[l+1:r+1][::-1] or s[l:r]==s[l:r][::-1])
+                return check(l,r-1) or check(l+1,r)
             l+=1
             r-=1
         return True
