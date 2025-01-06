@@ -1,17 +1,18 @@
 class Solution:
     def minOperations(self, boxes: str) -> List[int]:
         res=[0]*len(boxes)
+        box=0
+        moves=0
         for i in range(len(boxes)):
-            temp=0
-            x=0
-            while x < len(boxes):
-                if x==i:
-                    x+=1
-                    continue
-                if boxes[x]=="1":
-                    temp+=abs(i-x)
-                x+=1
-            res[i]=temp
+            res[i]+=box+moves
+            moves=box+moves
+            if boxes[i]=='1':
+                box+=1
+        box=0
+        moves=0
+        for i in reversed(range(len(boxes))):
+            res[i]+=box+moves
+            moves=box+moves
+            if boxes[i]=='1':
+                box+=1
         return res
-
-            
