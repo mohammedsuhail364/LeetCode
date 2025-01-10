@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/mohammedsuhail364/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/mohammedsuhail364/LeetCode/tree/master/0817-design-hashmap) |
 | [0948-sort-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0948-sort-an-array) |
+| [0952-word-subsets](https://github.com/mohammedsuhail364/LeetCode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/mohammedsuhail364/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/mohammedsuhail364/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1524-string-matching-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0001-two-sum) |
 | [0816-design-hashset](https://github.com/mohammedsuhail364/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/mohammedsuhail364/LeetCode/tree/master/0817-design-hashmap) |
+| [0952-word-subsets](https://github.com/mohammedsuhail364/LeetCode/tree/master/0952-word-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mohammedsuhail364/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Tree
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mohammedsuhail364/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0680-valid-palindrome-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0952-word-subsets](https://github.com/mohammedsuhail364/LeetCode/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/mohammedsuhail364/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
