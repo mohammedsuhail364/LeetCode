@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mohammedsuhail364/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/mohammedsuhail364/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0816-design-hashset](https://github.com/mohammedsuhail364/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/mohammedsuhail364/LeetCode/tree/master/0817-design-hashmap) |
 ## Design
@@ -249,16 +250,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mohammedsuhail364/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mohammedsuhail364/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0407-trapping-rain-water-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0948-sort-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0948-sort-an-array) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mohammedsuhail364/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mohammedsuhail364/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
