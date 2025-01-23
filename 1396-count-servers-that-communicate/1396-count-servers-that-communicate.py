@@ -3,27 +3,15 @@ class Solution:
         rows=len(grid)
         cols=len(grid[0])
         res=0
-        temp=[[1]*cols for i in range(rows)]
-        for i in range(rows):
-            row_count=0
-            for j in range(cols):
-                if grid[i][j]:
-                    row_count+=1
-            if row_count>1:
-                for j in range(cols):
-                    if grid[i][j] and temp[i][j]:
-                        res+=1
-                        temp[i][j]=0
-        j=0
-        while j<cols:
-            col_count=0
-            for i in range(rows):
-                if grid[i][j]:
-                    col_count+=1
-            if col_count>1:
-                for i in range(rows):
-                    if grid[i][j] and temp[i][j]: 
-                        res+=1
-                        temp[i][j]=0
-            j+=1
+        row_count=[0]*rows
+        col_count=[0]*cols
+        for r in range(rows):
+            for c in range(cols):
+                if grid[r][c]:
+                    row_count[r]+=1
+                    col_count[c]+=1
+        for r in range(rows):
+            for c in range(cols):
+                if grid[r][c] and max(row_count[r],col_count[c])>1 :
+                    res+=1
         return res
