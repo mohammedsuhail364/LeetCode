@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/mohammedsuhail364/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/mohammedsuhail364/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mohammedsuhail364/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3644-minimum-positive-sum-subarray](https://github.com/mohammedsuhail364/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0948-sort-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mohammedsuhail364/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mohammedsuhail364/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/mohammedsuhail364/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mohammedsuhail364/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
 | ------- |
