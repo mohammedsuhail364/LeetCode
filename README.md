@@ -354,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/mohammedsuhail364/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/mohammedsuhail364/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/mohammedsuhail364/LeetCode/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
