@@ -34,14 +34,14 @@ class Solution:
                 visit[cur]=True
                 cur_set.add(cur)
                 cur=favorite[cur]
-            if cur in cur_set:
-                length=len(cur_set)
-                while start != cur:
-                    length-=1
-                    start=favorite[start]
-                longest_cycle=max(longest_cycle,length)
-                if length==2:
-                    length_2_cycles.append([cur,favorite[cur]])
+            # if cur in cur_set:
+            length=len(cur_set)
+            while start != cur:
+                length-=1
+                start=favorite[start]
+            longest_cycle=max(longest_cycle,length)
+            if length==2:
+                length_2_cycles.append([cur,favorite[cur]])
         # 2)Find sum of longest non closed cycles
         
         inverted=defaultdict(list)
