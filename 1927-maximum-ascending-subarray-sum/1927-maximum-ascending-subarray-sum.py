@@ -1,14 +1,18 @@
 class Solution:
-    def maxAscendingSum(self, nums: List[int]) -> int:
+    def maxAscendingSum(self, nums) -> int:
         res=0
-        for i in range(len(nums)):
-            for j in range(i+1,len(nums)+1):
-                k=nums[i:j]
-                flag=True
-                for x in range(1,len(k)):
-                    if k[x-1]>=k[x]:
-                        flag=False
-                        break
-                if flag:
-                    res=max(res,sum(k))
+        i=0
+        j=1
+        while i<len(nums) and j<len(nums)+1:
+            k=nums[i:j]
+            flag=True
+            for x in range(1,len(k)):
+                if k[x-1]>=k[x]:
+                    i=j-1
+                    j=i+1
+                    flag=False
+                    break
+            if flag:
+                res=max(res,sum(k))
+            j+=1
         return res
