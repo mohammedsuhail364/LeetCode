@@ -8,6 +8,6 @@ class Solution:
                 product_cnt[product]+=1
         res=0
         for cnt in product_cnt.values():
-            pairs=(cnt*((cnt-1)/2))
+            pairs=(cnt*(cnt-1))//2
             res+=pairs*8
-        return int(res)
+        return res
