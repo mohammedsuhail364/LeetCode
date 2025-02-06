@@ -388,4 +388,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0184-department-highest-salary](https://github.com/mohammedsuhail364/LeetCode/tree/master/0184-department-highest-salary) |
 | [0596-classes-more-than-5-students](https://github.com/mohammedsuhail364/LeetCode/tree/master/0596-classes-more-than-5-students) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/mohammedsuhail364/LeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
