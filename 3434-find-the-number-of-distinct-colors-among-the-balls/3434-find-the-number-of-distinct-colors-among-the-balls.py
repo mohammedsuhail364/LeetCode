@@ -1,7 +1,7 @@
 class Solution:
     def queryResults(self, limit: int, queries):
         colors={}
-        color_cnt=Counter()
+        color_cnt=defaultdict(int)
         res=[]
         for i,j in queries:
             if i in colors:
