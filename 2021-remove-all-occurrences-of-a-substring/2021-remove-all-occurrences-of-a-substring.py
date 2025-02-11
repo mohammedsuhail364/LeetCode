@@ -1,14 +1,13 @@
 class Solution:
     def removeOccurrences(self, s: str, part: str) -> str:
-        i=0
-        j=len(part)
-        while j<=len(s):
-            k=s[i:j]
-            if s[i:j]==part:
-                s=s[:i]+s[j:]
-                i=0
-                j=len(part)
-            else:
-                i+=1
-                j+=1
-        return s
+        part=list(part)
+        p_len=len(part)
+        stack=[]
+        for c in s:
+            stack.append(c)
+            if len(stack)>=p_len and stack[-p_len:]==part:
+                count=p_len
+                while count:
+                    stack.pop()
+                    count-=1
+        return ''.join(stack)
