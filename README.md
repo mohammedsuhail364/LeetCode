@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0494-target-sum) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/mohammedsuhail364/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Math
 |  |
 | ------- |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/mohammedsuhail364/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/mohammedsuhail364/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Sorting
 |  |
