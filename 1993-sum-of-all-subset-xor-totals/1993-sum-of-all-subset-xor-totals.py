@@ -1,10 +1,9 @@
 class Solution:
     def subsetXORSum(self, nums: List[int]) -> int:
-        l=0
-        for i in range(2,len(nums)+1):
-            for j in combinations(nums,i):
-                k=j[0]
-                for x in range(1,len(j)):
-                    k^=j[x]
-                l+=k
-        return l+sum(nums)
+        def dfs(i,total):
+            if i==len(nums):
+                return total
+            x=dfs(i+1,total^nums[i]) # include the nums[i]
+            y=dfs(i+1,total) # not include the nums[i]
+            return (x+y)
+        return dfs(0,0) 
