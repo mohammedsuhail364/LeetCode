@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/mohammedsuhail364/LeetCode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/mohammedsuhail364/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/mohammedsuhail364/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/mohammedsuhail364/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mohammedsuhail364/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mohammedsuhail364/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/mohammedsuhail364/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1254-deepest-leaves-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/mohammedsuhail364/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/mohammedsuhail364/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/mohammedsuhail364/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/mohammedsuhail364/LeetCode/tree/master/0854-making-a-large-island) |
 | [1254-deepest-leaves-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/mohammedsuhail364/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mohammedsuhail364/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/mohammedsuhail364/LeetCode/tree/master/1558-course-schedule-iv) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/mohammedsuhail364/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1254-deepest-leaves-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/mohammedsuhail364/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Sliding Window
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/mohammedsuhail364/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/mohammedsuhail364/LeetCode/tree/master/0854-making-a-large-island) |
 | [1254-deepest-leaves-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/mohammedsuhail364/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/mohammedsuhail364/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/mohammedsuhail364/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -331,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/mohammedsuhail364/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0816-design-hashset](https://github.com/mohammedsuhail364/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/mohammedsuhail364/LeetCode/tree/master/0817-design-hashmap) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/mohammedsuhail364/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/mohammedsuhail364/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Hash Function
