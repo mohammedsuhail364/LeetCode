@@ -1,12 +1,7 @@
 class Solution:
     def addDigits(self, num: int) -> int:
 
-        while int(num)>9:
-            total=0
-            s=str(num)
-            for i in s:
-                total+=int(i)
-            num=total
-        return num
-        
+        if num==0: return 0
+        if num%9==0: return 9
+        return num%9
         
