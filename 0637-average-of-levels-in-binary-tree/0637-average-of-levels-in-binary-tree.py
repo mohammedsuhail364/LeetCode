@@ -9,13 +9,15 @@ class Solution:
         q=deque([(root)])
         res=[]
         while q:
-            level=[]
+            level_sum=0
+            c=0
             for i in range(len(q)):
                 node=q.popleft()
-                level.append(node.val)
+                level_sum+=node.val
+                c+=1
                 if node.left:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
-            res.append(sum(level)/len(level))
+            res.append(level_sum/c)
         return res
