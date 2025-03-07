@@ -17,16 +17,11 @@ class Solution:
             return prime
 
         prime=get_prime()
-        final_res=[-1,-1]
-        i=0
-        j=1
-        diff=float('inf')
-        while j<len(prime):
-            val=prime[j]-prime[i]
+        res=[-1,-1]
+        diff=(right+1)
+        for x in range(1,len(prime)):
+            val=prime[x]-prime[x-1]
             if val<diff:
                 diff=val
-                final_res[0]=prime[i]
-                final_res[1]=prime[j]
-            i+=1
-            j+=1
-        return final_res
+                res[0],res[1]=prime[x-1],prime[x]
+        return res
