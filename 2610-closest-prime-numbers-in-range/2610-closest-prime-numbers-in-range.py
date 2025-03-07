@@ -5,7 +5,7 @@ class Solution:
         def get_prime():
             is_prime=[True]*(right+1)
             is_prime[0]=is_prime[1]=False
-            for n in range(2,right+1):
+            for n in range(2,int(right**0.5)+1):
                 if not is_prime[n]:
                     continue
                 for m in range(n+n,right+1,n):
