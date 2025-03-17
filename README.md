@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mohammedsuhail364/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0229-majority-element-ii) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mohammedsuhail364/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/mohammedsuhail364/LeetCode/tree/master/0258-add-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/mohammedsuhail364/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mohammedsuhail364/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mohammedsuhail364/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mohammedsuhail364/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mohammedsuhail364/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/mohammedsuhail364/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mohammedsuhail364/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/mohammedsuhail364/LeetCode/tree/master/0682-baseball-game) |
