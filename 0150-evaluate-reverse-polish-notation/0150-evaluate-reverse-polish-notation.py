@@ -6,10 +6,16 @@ class Solution:
             if i not in '*/+-':
                 stack.append(i)
             else:
-                second=stack.pop()
-                first=stack.pop()
-                res=first+i+second
-                k=str(int(eval(res)))
+                second=int(stack.pop())
+                first=int(stack.pop())
+                if i=='+':
+                    k=first+second
+                elif i=='-':
+                    k=first-second
+                elif i=='*':
+                    k=first*second
+                elif i=='/':
+                    k=first/second
                 stack.append(k)
         ans=stack[-1]
         return int(ans)
