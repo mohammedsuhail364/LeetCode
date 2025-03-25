@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/mohammedsuhail364/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mohammedsuhail364/LeetCode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/mohammedsuhail364/LeetCode/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mohammedsuhail364/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohammedsuhail364/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/mohammedsuhail364/LeetCode/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/mohammedsuhail364/LeetCode/tree/master/0295-find-median-from-data-stream) |
