@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/mohammedsuhail364/LeetCode/tree/master/2145-grid-game) |
+| [2262-solving-questions-with-brainpower](https://github.com/mohammedsuhail364/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/mohammedsuhail364/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1761-count-sorted-vowel-strings](https://github.com/mohammedsuhail364/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/mohammedsuhail364/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/mohammedsuhail364/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/mohammedsuhail364/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 ## Backtracking
 |  |
 | ------- |
