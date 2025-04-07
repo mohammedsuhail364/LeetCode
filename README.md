@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/mohammedsuhail364/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0494-target-sum) |
 | [0682-baseball-game](https://github.com/mohammedsuhail364/LeetCode/tree/master/0682-baseball-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0368-largest-divisible-subset](https://github.com/mohammedsuhail364/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/mohammedsuhail364/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
