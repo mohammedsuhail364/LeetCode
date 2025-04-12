@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mohammedsuhail364/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mohammedsuhail364/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/mohammedsuhail364/LeetCode/tree/master/0056-merge-intervals) |
+| [0079-word-search](https://github.com/mohammedsuhail364/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mohammedsuhail364/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohammedsuhail364/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mohammedsuhail364/LeetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mohammedsuhail364/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mohammedsuhail364/LeetCode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/mohammedsuhail364/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/mohammedsuhail364/LeetCode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/mohammedsuhail364/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/mohammedsuhail364/LeetCode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/mohammedsuhail364/LeetCode/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/mohammedsuhail364/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mohammedsuhail364/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -620,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mohammedsuhail364/LeetCode/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/mohammedsuhail364/LeetCode/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/mohammedsuhail364/LeetCode/tree/master/0898-transpose-matrix) |
