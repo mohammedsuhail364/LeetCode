@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/mohammedsuhail364/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/mohammedsuhail364/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/mohammedsuhail364/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/mohammedsuhail364/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/mohammedsuhail364/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohammedsuhail364/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0768-partition-labels](https://github.com/mohammedsuhail364/LeetCode/tree/master/0768-partition-labels) |
 | [0816-design-hashset](https://github.com/mohammedsuhail364/LeetCode/tree/master/0816-design-hashset) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/mohammedsuhail364/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/mohammedsuhail364/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/mohammedsuhail364/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0948-sort-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0948-sort-an-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/mohammedsuhail364/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mohammedsuhail364/LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohammedsuhail364/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/mohammedsuhail364/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mohammedsuhail364/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -558,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mohammedsuhail364/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/mohammedsuhail364/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/mohammedsuhail364/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0948-sort-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0948-sort-an-array) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mohammedsuhail364/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -573,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/mohammedsuhail364/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -582,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/mohammedsuhail364/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0948-sort-an-array) |
 | [1160-letter-tile-possibilities](https://github.com/mohammedsuhail364/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/mohammedsuhail364/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -710,4 +717,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/0070-climbing-stairs) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mohammedsuhail364/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
