@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/mohammedsuhail364/LeetCode/tree/master/2145-grid-game) |
 | [2262-solving-questions-with-brainpower](https://github.com/mohammedsuhail364/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2280-count-good-triplets-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/mohammedsuhail364/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1023-time-based-key-value-store](https://github.com/mohammedsuhail364/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/mohammedsuhail364/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2280-count-good-triplets-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mohammedsuhail364/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2716-prime-subtraction-operation](https://github.com/mohammedsuhail364/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3643-zero-array-transformation-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3643-zero-array-transformation-ii) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mohammedsuhail364/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mohammedsuhail364/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0948-sort-an-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mohammedsuhail364/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0948-sort-an-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -688,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/mohammedsuhail364/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
 |  |
@@ -721,4 +726,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mohammedsuhail364/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
