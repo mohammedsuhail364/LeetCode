@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/mohammedsuhail364/LeetCode/tree/master/2145-grid-game) |
 | [2262-solving-questions-with-brainpower](https://github.com/mohammedsuhail364/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/mohammedsuhail364/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
