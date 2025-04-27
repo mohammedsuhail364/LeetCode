@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mohammedsuhail364/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mohammedsuhail364/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/mohammedsuhail364/LeetCode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/mohammedsuhail364/LeetCode/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/mohammedsuhail364/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/mohammedsuhail364/LeetCode/tree/master/0079-word-search) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/mohammedsuhail364/LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/mohammedsuhail364/LeetCode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/mohammedsuhail364/LeetCode/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/mohammedsuhail364/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohammedsuhail364/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/mohammedsuhail364/LeetCode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/mohammedsuhail364/LeetCode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/mohammedsuhail364/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mohammedsuhail364/LeetCode/tree/master/0735-asteroid-collision) |
