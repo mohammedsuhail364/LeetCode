@@ -1,6 +1,6 @@
 class Solution:
     def buildArray(self, nums: List[int]) -> List[int]:
-        li=[]
+        li=[0]*len(nums)
         for i in range(len(nums)):
-            li.append(nums[nums[i]])
+            li[i]=nums[nums[i]]
         return li
