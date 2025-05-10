@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/mohammedsuhail364/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/mohammedsuhail364/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/mohammedsuhail364/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mohammedsuhail364/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/mohammedsuhail364/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/mohammedsuhail364/LeetCode/tree/master/2509-minimize-xor) |
 | [2716-prime-subtraction-operation](https://github.com/mohammedsuhail364/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/mohammedsuhail364/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
