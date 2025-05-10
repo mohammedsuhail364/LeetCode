@@ -1,12 +1,14 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
-        perms=[[]]
-        for n in nums:
-            new_perms=[]
-            for p in perms:
-                for i in range(len(p)+1):
-                    p_copy=p[:]
-                    p_copy.insert(i,n)
-                    new_perms.append(p_copy)
-            perms=new_perms
-        return perms
+        res=[]
+        def dfs(perms):
+            if len(perms)==len(nums):
+                res.append(perms[:])
+            for i in range(len(nums)):
+                if nums[i] in perms:
+                    continue
+                perms.append(nums[i])
+                dfs(perms)
+                perms.pop()
+        dfs([])
+        return res
