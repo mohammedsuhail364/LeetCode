@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mohammedsuhail364/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/mohammedsuhail364/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/mohammedsuhail364/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mohammedsuhail364/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/mohammedsuhail364/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mohammedsuhail364/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
