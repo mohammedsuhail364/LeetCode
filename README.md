@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohammedsuhail364/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0135-candy](https://github.com/mohammedsuhail364/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohammedsuhail364/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -672,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohammedsuhail364/LeetCode/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/mohammedsuhail364/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0179-largest-number) |
 | [0621-task-scheduler](https://github.com/mohammedsuhail364/LeetCode/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0680-valid-palindrome-ii) |
