@@ -15,18 +15,14 @@ class Solution:
             if s[i]!='9':
                 max_v=s[i]
                 break
-        
         for i in range(len(s)):
             if s[i]==min_v and not flag:
                 min_val[i]='0'
             elif s[i]==min_v and flag:
                 min_val[i]='1'
-            
-
         for i in range(len(s)):
             if s[i]==max_v:
                 max_val[i]='9'
-    
         max_val=''.join(max_val)
         min_val=''.join(min_val)
         return int(max_val)-int(min_val)
