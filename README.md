@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mohammedsuhail364/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mohammedsuhail364/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/mohammedsuhail364/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/mohammedsuhail364/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2391-strong-password-checker-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/2391-strong-password-checker-ii) |
@@ -666,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mohammedsuhail364/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/mohammedsuhail364/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/mohammedsuhail364/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2470-removing-stars-from-a-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
