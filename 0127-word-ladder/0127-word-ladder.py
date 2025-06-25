@@ -1,5 +1,8 @@
 class Solution:
     def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
+        # want to revisit
+        if endWord not in wordList:
+            return 0
         visit=set()
         adj=defaultdict(list)
         wordList.append(beginWord)
