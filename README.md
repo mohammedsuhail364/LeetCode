@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/mohammedsuhail364/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/mohammedsuhail364/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/mohammedsuhail364/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mohammedsuhail364/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/mohammedsuhail364/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/mohammedsuhail364/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-deepest-leaves-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/mohammedsuhail364/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/mohammedsuhail364/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-deepest-leaves-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/mohammedsuhail364/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/mohammedsuhail364/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Sliding Window
