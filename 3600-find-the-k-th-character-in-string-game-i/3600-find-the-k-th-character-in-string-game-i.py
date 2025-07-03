@@ -3,6 +3,8 @@ class Solution:
         s=["a"]
         while len(s)<=k+1:
             for i in range(len(s)):
+                if k - 1 < len(s):
+                    return s[k-1]
                 val=s[i]
                 if val=='z':
                     s.append("a")
