@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/mohammedsuhail364/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/mohammedsuhail364/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0399-evaluate-division](https://github.com/mohammedsuhail364/LeetCode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/mohammedsuhail364/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/mohammedsuhail364/LeetCode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mohammedsuhail364/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0449-serialize-and-deserialize-bst](https://github.com/mohammedsuhail364/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/mohammedsuhail364/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0386-lexicographical-numbers](https://github.com/mohammedsuhail364/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [0399-evaluate-division](https://github.com/mohammedsuhail364/LeetCode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mohammedsuhail364/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0449-serialize-and-deserialize-bst](https://github.com/mohammedsuhail364/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/mohammedsuhail364/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/mohammedsuhail364/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0332-reconstruct-itinerary](https://github.com/mohammedsuhail364/LeetCode/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/mohammedsuhail364/LeetCode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/mohammedsuhail364/LeetCode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/mohammedsuhail364/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mohammedsuhail364/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -492,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/mohammedsuhail364/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0257-binary-tree-paths](https://github.com/mohammedsuhail364/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/mohammedsuhail364/LeetCode/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohammedsuhail364/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/mohammedsuhail364/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0482-license-key-formatting](https://github.com/mohammedsuhail364/LeetCode/tree/master/0482-license-key-formatting) |
@@ -1018,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/mohammedsuhail364/LeetCode/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/mohammedsuhail364/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mohammedsuhail364/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mohammedsuhail364/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1041,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/mohammedsuhail364/LeetCode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/mohammedsuhail364/LeetCode/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/mohammedsuhail364/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/mohammedsuhail364/LeetCode/tree/master/0854-making-a-large-island) |
