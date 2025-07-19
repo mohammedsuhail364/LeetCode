@@ -13,6 +13,7 @@ class Solution:
                 sub_folder+=new_word
                 if sub_folder in seen:
                     is_sub=True
+                    break
             if not is_sub:
                 seen.add(i)
         return list(seen)
