@@ -580,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/mohammedsuhail364/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3811-reverse-degree-of-a-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mohammedsuhail364/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -796,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mohammedsuhail364/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/mohammedsuhail364/LeetCode/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Linked List
 |  |
 | ------- |
