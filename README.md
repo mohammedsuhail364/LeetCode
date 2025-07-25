@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0494-target-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/mohammedsuhail364/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/mohammedsuhail364/LeetCode/tree/master/0621-task-scheduler) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/mohammedsuhail364/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0682-baseball-game](https://github.com/mohammedsuhail364/LeetCode/tree/master/0682-baseball-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/mohammedsuhail364/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mohammedsuhail364/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/mohammedsuhail364/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/mohammedsuhail364/LeetCode/tree/master/0621-task-scheduler) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/mohammedsuhail364/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0768-partition-labels](https://github.com/mohammedsuhail364/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/mohammedsuhail364/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/mohammedsuhail364/LeetCode/tree/master/0816-design-hashset) |
@@ -874,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/mohammedsuhail364/LeetCode/tree/master/0621-task-scheduler) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/mohammedsuhail364/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0680-valid-palindrome-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/mohammedsuhail364/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/mohammedsuhail364/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -958,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mohammedsuhail364/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/mohammedsuhail364/LeetCode/tree/master/0621-task-scheduler) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/mohammedsuhail364/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0744-network-delay-time](https://github.com/mohammedsuhail364/LeetCode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/mohammedsuhail364/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mohammedsuhail364/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
