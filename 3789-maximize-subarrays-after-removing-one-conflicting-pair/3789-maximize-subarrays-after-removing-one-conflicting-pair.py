@@ -1,38 +1,37 @@
 from typing import List
-
+# refer tech bose video
 class Solution:
-    def maxSubarrays(self, n: int, conflictingPairs: List[List[int]]) -> int:
-        
-        # Group all `u` values by their `v` endpoint
-        right = [[] for _ in range(n + 1)]
-        for a, b in conflictingPairs:
-            right[max(a, b)].append(min(a, b))
-        
-        # Base score
-        ans = 0 
-        # `left` stores [top1, top2] `u` values seen so far, where top1 >= top2.
-        # `left[0]` acts as our running `forbidden_start`.
-        left = [0, 0] 
-        # `bonus[u]` accumulates the total gain if the critical conflict involving `u` is removed.
-        bonus = [0] * (n + 1)
-        
-        # Single pass from r = 1 to n
-        for r in range(1, n + 1):
-            # Check for new conflicts ending at `r` and update `left`
-            for l in right[r]:
-                # This is a concise trick to update the top two seen values
-                if l > left[0]:
-                    left = [l, left[0]]
-                elif l > left[1]:
-                    left = [left[0], l]
-            
-            # Add the count for this endpoint to the base score
-            ans += r - left[0]
+    def maxSubarrays(self, n: int, conflicting_pairs: List[List[int]]) -> int:
+        m = len(conflicting_pairs)
+        # Ensure each pair is ordered (start <= end)
+        for p in conflicting_pairs:
+            if p[0] > p[1]:
+                p[0], p[1] = p[1], p[0]
+        # Sort by end-point
+        conflicting_pairs.sort(key=lambda p: p[1])
 
-            # The gain at this step is the difference between the top two forbidden starts.
-            # We add this gain to the tally for the `u` value causing the restriction (`left[0]`).
-            if left[0] > 0:
-                bonus[left[0]] += left[0] - left[1]
-        
-        # The final result is the base score plus the maximum possible gain.
-        return ans + max(bonus)
+        blocked = 0
+        profit = 0
+        max_profit = 0
+        max1 = 0
+        max2 = 0
+
+        for i, (start, end) in enumerate(conflicting_pairs):
+            bottom = conflicting_pairs[i+1][1] if i < m - 1 else n + 1
+            gap = bottom - end
+
+            if start > max1:
+                max2 = max1
+                max1 = start
+                profit = 0
+            elif start > max2:
+                max2 = start
+
+            profit += (max1 - max2) * gap
+            if profit > max_profit:
+                max_profit = profit
+
+            blocked += max1 * gap
+
+        total_subarrays = n * (n + 1) // 2
+        return total_subarrays - blocked + max_profit
