@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/mohammedsuhail364/LeetCode/tree/master/1656-count-good-triplets) |
 | [1706-min-cost-to-connect-all-points](https://github.com/mohammedsuhail364/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mohammedsuhail364/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/mohammedsuhail364/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/mohammedsuhail364/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1813-maximum-erasure-value](https://github.com/mohammedsuhail364/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/mohammedsuhail364/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -728,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1253-sort-the-matrix-diagonally](https://github.com/mohammedsuhail364/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mohammedsuhail364/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mohammedsuhail364/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/mohammedsuhail364/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/mohammedsuhail364/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
