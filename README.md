@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/mohammedsuhail364/LeetCode/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mohammedsuhail364/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mohammedsuhail364/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/mohammedsuhail364/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/mohammedsuhail364/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0948-sort-an-array) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/mohammedsuhail364/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0868-push-dominoes](https://github.com/mohammedsuhail364/LeetCode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mohammedsuhail364/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/mohammedsuhail364/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/mohammedsuhail364/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/mohammedsuhail364/LeetCode/tree/master/1170-shortest-common-supersequence) |
@@ -927,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0260-single-number-iii) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mohammedsuhail364/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mohammedsuhail364/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mohammedsuhail364/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
