@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/mohammedsuhail364/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/mohammedsuhail364/LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/mohammedsuhail364/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/mohammedsuhail364/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/mohammedsuhail364/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/mohammedsuhail364/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohammedsuhail364/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/mohammedsuhail364/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mohammedsuhail364/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/mohammedsuhail364/LeetCode/tree/master/0020-valid-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/mohammedsuhail364/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/mohammedsuhail364/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/mohammedsuhail364/LeetCode/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0065-valid-number) |
