@@ -1,5 +1,42 @@
 class Solution:
     def minCost(self, basket1: List[int], basket2: List[int]) -> int:
+        """
+        Step 1: Check if it’s even possible
+
+        Combine both baskets and check if each fruit count is even.
+
+        Reason: After making baskets equal, each fruit must appear exactly half in each basket.
+
+        If any fruit appears odd times, return -1.
+
+        Step 2: Identify Surplus Fruits
+
+        For each fruit:
+
+        Compute how many should be in each basket = total_count // 2
+
+        If basket1 has more than needed, those are extra fruits to give away → add to surplus1.
+
+        If basket2 has more than needed, those are extra fruits to give away → add to surplus2.
+
+        These surplus lists represent exactly the fruits that need to be swapped.
+
+        Step 3: Minimize Swap Cost
+
+        Sort surplus1 ascending (cheapest to give away from basket1).
+
+        Sort surplus2 descending (largest to give away from basket2).
+
+        Pair the smallest from one basket with the largest from the other for minimal cost swaps.
+
+        Swap cost formula:
+
+        cost = min(direct_swap_cost, 2 * global_min)
+        direct_swap_cost = min(fruit_from_basket1, fruit_from_basket2)
+
+        2 * global_min = cost of double-swapping via the cheapest fruit
+        
+        """
         freq=Counter(basket1)+Counter(basket2)
         for fruit,count in freq.items():
             if count%2:
