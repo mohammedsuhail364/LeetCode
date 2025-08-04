@@ -1,15 +1,14 @@
 class Solution:
     def totalFruit(self, fruits: List[int]) -> int:
-        count=defaultdict(int)
         res=0
         l=0
+        di=defaultdict(int)
         for r in range(len(fruits)):
-            count[fruits[r]]+=1
-            while len(count)>2:
-                count[fruits[l]]-=1
-                if count[fruits[l]]==0:
-                    del count[fruits[l]]
+            di[fruits[r]]+=1
+            while len(di)>2:
+                di[fruits[l]]-=1
+                if di[fruits[l]]==0:
+                    del di[fruits[l]]
                 l+=1
-            max_val=sum(count.values())
-            res=max(res,max_val)
+            res=max(res,r-l+1)
         return res
