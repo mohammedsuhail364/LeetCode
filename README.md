@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/mohammedsuhail364/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/mohammedsuhail364/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/mohammedsuhail364/LeetCode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0399-evaluate-division](https://github.com/mohammedsuhail364/LeetCode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/mohammedsuhail364/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/mohammedsuhail364/LeetCode/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/mohammedsuhail364/LeetCode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/mohammedsuhail364/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -709,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/mohammedsuhail364/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mohammedsuhail364/LeetCode/tree/master/0258-add-digits) |
+| [0279-perfect-squares](https://github.com/mohammedsuhail364/LeetCode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/mohammedsuhail364/LeetCode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/mohammedsuhail364/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0507-perfect-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0507-perfect-number) |
