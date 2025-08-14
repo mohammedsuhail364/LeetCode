@@ -1,16 +1,13 @@
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
-        cursum=0
+        di=defaultdict(int)
+        di[0]=1
+        cur_sum=0
         res=0
-        di={0:1}
         for i in nums:
-            cursum+=i
-            diff=cursum-k
-            if diff in di:
-                res+=di[diff]
-            if cursum not in di:
-                di[cursum]=1
-            else:
-                di[cursum]+=1
+            cur_sum+=i
+            remove=cur_sum-k
+            if remove in di:
+                res+=di[remove]
+            di[cur_sum]+=1
         return res
-       
