@@ -568,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/mohammedsuhail364/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/mohammedsuhail364/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0306-additive-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0306-additive-number) |
 | [0399-evaluate-division](https://github.com/mohammedsuhail364/LeetCode/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohammedsuhail364/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/mohammedsuhail364/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/mohammedsuhail364/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/mohammedsuhail364/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0306-additive-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0306-additive-number) |
 | [0494-target-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/mohammedsuhail364/LeetCode/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/mohammedsuhail364/LeetCode/tree/master/1160-letter-tile-possibilities) |
