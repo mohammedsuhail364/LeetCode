@@ -694,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/mohammedsuhail364/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/mohammedsuhail364/LeetCode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/mohammedsuhail364/LeetCode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/mohammedsuhail364/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/mohammedsuhail364/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0212-word-search-ii) |
@@ -720,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/mohammedsuhail364/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/mohammedsuhail364/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/mohammedsuhail364/LeetCode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohammedsuhail364/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mohammedsuhail364/LeetCode/tree/master/0204-count-primes) |
@@ -994,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mohammedsuhail364/LeetCode/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/mohammedsuhail364/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0137-single-number-ii) |
