@@ -10,8 +10,8 @@ class Solution:
                 if x1<=x and y1>=y:
                     flag=True
                     for k in range(i+1,j):
-                        x2,y2=points[k]
-                        if x>=x2 and y2>=y and y1>=y2:
+                        _,y2=points[k]
+                        if y<=y2<=y1:
                             flag=False
                             break
                     if flag:
