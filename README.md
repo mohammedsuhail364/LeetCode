@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/mohammedsuhail364/LeetCode/tree/master/0817-design-hashmap) |
 | [0827-expressive-words](https://github.com/mohammedsuhail364/LeetCode/tree/master/0827-expressive-words) |
 | [0854-making-a-large-island](https://github.com/mohammedsuhail364/LeetCode/tree/master/0854-making-a-large-island) |
+| [0862-find-and-replace-in-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/0862-find-and-replace-in-string) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/mohammedsuhail364/LeetCode/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mohammedsuhail364/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/mohammedsuhail364/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/mohammedsuhail364/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/mohammedsuhail364/LeetCode/tree/master/0817-design-hashmap) |
+| [0862-find-and-replace-in-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/0862-find-and-replace-in-string) |
 | [0900-reordered-power-of-2](https://github.com/mohammedsuhail364/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mohammedsuhail364/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mohammedsuhail364/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/mohammedsuhail364/LeetCode/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0827-expressive-words](https://github.com/mohammedsuhail364/LeetCode/tree/master/0827-expressive-words) |
+| [0862-find-and-replace-in-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/0862-find-and-replace-in-string) |
 | [0868-push-dominoes](https://github.com/mohammedsuhail364/LeetCode/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/mohammedsuhail364/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0952-word-subsets](https://github.com/mohammedsuhail364/LeetCode/tree/master/0952-word-subsets) |
@@ -831,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/mohammedsuhail364/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/mohammedsuhail364/LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohammedsuhail364/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0862-find-and-replace-in-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/0862-find-and-replace-in-string) |
 | [0900-reordered-power-of-2](https://github.com/mohammedsuhail364/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0948-sort-an-array) |
 | [0976-minimum-area-rectangle](https://github.com/mohammedsuhail364/LeetCode/tree/master/0976-minimum-area-rectangle) |
