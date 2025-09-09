@@ -714,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/mohammedsuhail364/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/mohammedsuhail364/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/mohammedsuhail364/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/mohammedsuhail364/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/mohammedsuhail364/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/mohammedsuhail364/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -939,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/mohammedsuhail364/LeetCode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/mohammedsuhail364/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/mohammedsuhail364/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2470-removing-stars-from-a-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/mohammedsuhail364/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -1231,6 +1233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/mohammedsuhail364/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mohammedsuhail364/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/mohammedsuhail364/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/mohammedsuhail364/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/mohammedsuhail364/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Matrix
