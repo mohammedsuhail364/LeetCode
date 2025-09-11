@@ -697,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mohammedsuhail364/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0826-soup-servings](https://github.com/mohammedsuhail364/LeetCode/tree/master/0826-soup-servings) |
+| [0836-race-car](https://github.com/mohammedsuhail364/LeetCode/tree/master/0836-race-car) |
 | [0867-new-21-game](https://github.com/mohammedsuhail364/LeetCode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/mohammedsuhail364/LeetCode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mohammedsuhail364/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
