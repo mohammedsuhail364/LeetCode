@@ -604,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/mohammedsuhail364/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0306-additive-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0306-additive-number) |
+| [0394-decode-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/mohammedsuhail364/LeetCode/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohammedsuhail364/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/mohammedsuhail364/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
@@ -1235,6 +1236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohammedsuhail364/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/mohammedsuhail364/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mohammedsuhail364/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/mohammedsuhail364/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mohammedsuhail364/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/mohammedsuhail364/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -1314,6 +1316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/mohammedsuhail364/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/mohammedsuhail364/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mohammedsuhail364/LeetCode/tree/master/0326-power-of-three) |
+| [0394-decode-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/mohammedsuhail364/LeetCode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
