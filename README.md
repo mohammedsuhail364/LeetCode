@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/mohammedsuhail364/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0260-single-number-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/mohammedsuhail364/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mohammedsuhail364/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/mohammedsuhail364/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/mohammedsuhail364/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0399-evaluate-division](https://github.com/mohammedsuhail364/LeetCode/tree/master/0399-evaluate-division) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/mohammedsuhail364/LeetCode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mohammedsuhail364/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/mohammedsuhail364/LeetCode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mohammedsuhail364/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/mohammedsuhail364/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mohammedsuhail364/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/mohammedsuhail364/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0386-lexicographical-numbers](https://github.com/mohammedsuhail364/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/mohammedsuhail364/LeetCode/tree/master/0399-evaluate-division) |
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/mohammedsuhail364/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/mohammedsuhail364/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mohammedsuhail364/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/mohammedsuhail364/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/mohammedsuhail364/LeetCode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/mohammedsuhail364/LeetCode/tree/master/0684-redundant-connection) |
@@ -717,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/mohammedsuhail364/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/mohammedsuhail364/LeetCode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/mohammedsuhail364/LeetCode/tree/master/0279-perfect-squares) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mohammedsuhail364/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/mohammedsuhail364/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -1309,6 +1314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mohammedsuhail364/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/mohammedsuhail364/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0212-word-search-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mohammedsuhail364/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mohammedsuhail364/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/mohammedsuhail364/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -1383,6 +1389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/mohammedsuhail364/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mohammedsuhail364/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/mohammedsuhail364/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/mohammedsuhail364/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/mohammedsuhail364/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -1459,6 +1466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/0070-climbing-stairs) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/mohammedsuhail364/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/1013-fibonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/mohammedsuhail364/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/mohammedsuhail364/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
