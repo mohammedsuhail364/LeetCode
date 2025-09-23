@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/mohammedsuhail364/LeetCode/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/mohammedsuhail364/LeetCode/tree/master/0965-unique-email-addresses) |
 | [0976-minimum-area-rectangle](https://github.com/mohammedsuhail364/LeetCode/tree/master/0976-minimum-area-rectangle) |
+| [1003-minimum-area-rectangle-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/1003-minimum-area-rectangle-ii) |
 | [1006-vowel-spellchecker](https://github.com/mohammedsuhail364/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1025-minimum-cost-for-tickets](https://github.com/mohammedsuhail364/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/mohammedsuhail364/LeetCode/tree/master/1036-rotting-oranges) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/mohammedsuhail364/LeetCode/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/mohammedsuhail364/LeetCode/tree/master/0965-unique-email-addresses) |
 | [0976-minimum-area-rectangle](https://github.com/mohammedsuhail364/LeetCode/tree/master/0976-minimum-area-rectangle) |
+| [1003-minimum-area-rectangle-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/1003-minimum-area-rectangle-ii) |
 | [1006-vowel-spellchecker](https://github.com/mohammedsuhail364/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/mohammedsuhail364/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/mohammedsuhail364/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -829,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/mohammedsuhail364/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/mohammedsuhail364/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0976-minimum-area-rectangle](https://github.com/mohammedsuhail364/LeetCode/tree/master/0976-minimum-area-rectangle) |
+| [1003-minimum-area-rectangle-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/1003-minimum-area-rectangle-ii) |
 | [1013-fibonacci-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mohammedsuhail364/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mohammedsuhail364/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -1509,6 +1512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-minimum-area-rectangle](https://github.com/mohammedsuhail364/LeetCode/tree/master/0976-minimum-area-rectangle) |
+| [1003-minimum-area-rectangle-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/1003-minimum-area-rectangle-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Probability and Statistics
