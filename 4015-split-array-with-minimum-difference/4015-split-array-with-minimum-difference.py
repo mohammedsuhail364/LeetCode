@@ -1,32 +1,26 @@
 class Solution:
     def splitArray(self, nums: List[int]) -> int:
-        n = len(nums)
-        prefix_sum = [0] * n
-        prefix_sum[0] = nums[0]
-        for i in range(1, n):
-            prefix_sum[i] = prefix_sum[i-1] + nums[i]
-
-        # strictly increasing prefix check
-        inc_prefix = [True] * n
-        for i in range(1, n):
-            if nums[i] <= nums[i-1]:
-                inc_prefix[i] = False
+        n=len(nums)
+        prefix_sum=[0]*n
+        prefix_sum[0]=nums[0]
+        for i in range(1,n):
+            prefix_sum[i]=prefix_sum[i-1]+nums[i]
+        is_increase=[True]*n
+        for i in range(1,n):
+            if nums[i]>nums[i-1]:
+                is_increase[i]=is_increase[i-1]
             else:
-                inc_prefix[i] = inc_prefix[i-1]
-
-        # strictly decreasing suffix check
-        dec_suffix = [True] * n
-        for i in range(n-2, -1, -1):
-            if nums[i] <= nums[i+1]:
-                dec_suffix[i] = False
+                is_increase[i]=False
+        is_decrease=[True]*n
+        for i in range(n-2,-1,-1):
+            if nums[i]>nums[i+1]:
+                is_decrease[i]=is_decrease[i+1]
             else:
-                dec_suffix[i] = dec_suffix[i+1]
-
-        ans = float('inf')
+                is_decrease[i]=False
+        res=inf
         for i in range(n-1):
-            if inc_prefix[i] and dec_suffix[i+1]:
-                left_sum = prefix_sum[i]
-                right_sum = prefix_sum[-1] - prefix_sum[i]
-                ans = min(ans, abs(left_sum - right_sum))
-
-        return -1 if ans == float('inf') else ans
+            if is_increase[i] and is_decrease[i+1]:
+                left=prefix_sum[i]
+                right=prefix_sum[-1]-prefix_sum[i]
+                res=min(res,abs(left-right))
+        return -1 if res==inf else res
