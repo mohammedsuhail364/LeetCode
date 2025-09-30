@@ -1,6 +1,13 @@
 class Solution:
-    @lru_cache(None)
+    
     def fib(self, n: int) -> int:
-        if n<=1:
-            return n
-        return self.fib(n-1)+self.fib(n-2)
+        memo={}
+        def dfs(n):
+            if n in memo:
+                return memo[n]
+            if n<=1:
+                return n
+            res=dfs(n-1)+dfs(n-2)
+            memo[n]=res
+            return res
+        return dfs(n)
