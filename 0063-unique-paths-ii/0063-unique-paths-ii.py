@@ -1,21 +1,20 @@
 class Solution:
-    def uniquePathsWithObstacles(self, grid: List[List[int]]) -> int:
-        if grid[0][0]==1 or grid[-1][-1]==1:
+    def uniquePathsWithObstacles(self, obstacleGrid: List[List[int]]) -> int:
+        m=len(obstacleGrid)
+        n=len(obstacleGrid[0])
+        if obstacleGrid[0][0] == 1 or obstacleGrid[m-1][n-1]==1:
             return 0
-        self.res=0
-        rows=len(grid)
-        cols=len(grid[0])
-        def backtrack(r,c):
-            if (r,c)==(rows-1,cols-1):
-                self.res+=1
-                return
-            temp=grid[r][c]
-            grid[r][c]=-1
-            for nr,nc in [(r+1,c),(r,c+1)]:
-                if 0<=nr<rows and 0<=nc<cols and grid[nr][nc]==0:
-                    backtrack(nr,nc)
-            grid[r][c]=temp
-        backtrack(0,0)
-
-        return self.res
+        dp=[[0]*n for _ in range(m)]
+        dp[m-1][n-1]=1
+        for r in range(m-1,-1,-1):
+            for c in range(n-1,-1,-1):
+                if obstacleGrid[r][c]==1:
+                    dp[r][c]=0
+                    continue
+                if r == m-1 and c == n-1:
+                    continue
+                down=dp[r+1][c] if r+1<m else 0
+                right=dp[r][c+1] if c+1<n else 0
+                dp[r][c]=down+right
+        return dp[0][0]
         
