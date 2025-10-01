@@ -640,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/mohammedsuhail364/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/mohammedsuhail364/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/mohammedsuhail364/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/mohammedsuhail364/LeetCode/tree/master/0299-bulls-and-cows) |
@@ -739,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/mohammedsuhail364/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/mohammedsuhail364/LeetCode/tree/master/0198-house-robber) |
+| [0241-different-ways-to-add-parentheses](https://github.com/mohammedsuhail364/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/mohammedsuhail364/LeetCode/tree/master/0279-perfect-squares) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohammedsuhail364/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/mohammedsuhail364/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -836,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/mohammedsuhail364/LeetCode/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/mohammedsuhail364/LeetCode/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/mohammedsuhail364/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/mohammedsuhail364/LeetCode/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/mohammedsuhail364/LeetCode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/mohammedsuhail364/LeetCode/tree/master/0326-power-of-three) |
@@ -1403,6 +1406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/mohammedsuhail364/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/mohammedsuhail364/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/mohammedsuhail364/LeetCode/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/mohammedsuhail364/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/mohammedsuhail364/LeetCode/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/1013-fibonacci-number) |
@@ -1507,6 +1511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/mohammedsuhail364/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohammedsuhail364/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/1013-fibonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/mohammedsuhail364/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
