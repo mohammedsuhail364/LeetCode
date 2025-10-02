@@ -10,7 +10,6 @@ class Solution:
             include=nums[i]+dfs(i+2)
             memo[i]=max(skip,include)
             return memo[i]
-        res=0
-        for i in range(len(nums)):
-            res=max(res,dfs(i))
-        return res
+        
+        
+        return dfs(0)
