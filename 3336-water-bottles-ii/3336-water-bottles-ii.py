@@ -6,7 +6,6 @@ class Solution:
             numBottles=numBottles-numExchange
             numBottles+=1
             numExchange+=1
-
         if numBottles:
             res+=numBottles
         return res
