@@ -1,15 +1,9 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        memo={}
-        def dfs(i):
-            if i in memo:
-                return memo[i]
-            if i>=len(nums):
-                return 0
-            skip=dfs(i+1)
-            include=nums[i]+dfs(i+2)
-            memo[i]=max(skip,include)
-            return memo[i]
-        
-        
-        return dfs(0)
+        n=len(nums)
+        dp=[0]*(n+2)
+        for i in range(n-1,-1,-1):
+            skip=dp[i+1]
+            include=nums[i]+dp[i+2]
+            dp[i]=max(skip,include)
+        return dp[0]
