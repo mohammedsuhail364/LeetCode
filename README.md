@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/mohammedsuhail364/LeetCode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/mohammedsuhail364/LeetCode/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0212-word-search-ii) |
+| [0213-house-robber-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/mohammedsuhail364/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/mohammedsuhail364/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/mohammedsuhail364/LeetCode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mohammedsuhail364/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/mohammedsuhail364/LeetCode/tree/master/0279-perfect-squares) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohammedsuhail364/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
