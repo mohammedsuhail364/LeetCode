@@ -1,16 +1,16 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        dp={}
-        def backtrack(i,amo):
+        memo={}
+        def dfs(i):
+            if i in memo:
+                return memo[i]
             if i>=len(nums):
-                return amo
-            if (i,amo) in dp:
-                return dp[(i,amo)]
-            # skip the current one
-            skip=backtrack(i+1,amo)
-            # add the current one
-            include=backtrack(i+2,amo+nums[i])
-            dp[(i,amo)]=max(skip,include)
-            return dp[(i,amo)]
-        return backtrack(0,0)
-        
+                return 0
+            skip=dfs(i+1)
+            include=nums[i]+dfs(i+2)
+            memo[i]=max(skip,include)
+            return memo[i]
+        res=0
+        for i in range(len(nums)):
+            res=max(res,dfs(i))
+        return res
