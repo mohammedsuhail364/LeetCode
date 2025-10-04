@@ -6,7 +6,7 @@ class Solution:
         while l<r:
             max_area=(r-l)*min(height[l],height[r])
             res=max(res,max_area)
-            if height[l]<height[r]:
+            if height[l]<=height[r]:
                 l+=1
             else:
                 r-=1
