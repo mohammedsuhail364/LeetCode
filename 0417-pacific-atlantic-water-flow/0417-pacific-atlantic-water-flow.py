@@ -6,14 +6,14 @@ class Solution:
                 r,c=q.popleft()
                 ocean[r][c]=True
                 for nr,nc in [(r+1,c),(r-1,c),(r,c+1),(r,c-1)]:
-                    if 0<=nr<rows and 0<=nc<cols and not ocean[nr][nc] and heights[nr][nc]>=heights[r][c]:
+                    if 0<=nr<rows and 0<=nc<cols and not ocean[nr][nc] and heights[r][c]<=heights[nr][nc]: #this is the trick we dont check every time this ensure where is the main source comes 
                         q.append((nr,nc))
         rows=len(heights)
         cols=len(heights[0])
-        pac=[[False]*cols for _ in range(rows)]
-        atl=[[False]*cols for _ in range(rows)]
         pacific=[]
         atlantic=[]
+        pac=[[False]*cols for _ in range(rows)]
+        atl=[[False]*cols for _ in range(rows)]
         for c in range(cols):
             pacific.append((0,c))
             atlantic.append((rows-1,c))
@@ -26,5 +26,6 @@ class Solution:
         for r in range(rows):
             for c in range(cols):
                 if pac[r][c] and atl[r][c]:
-                    res.append((r,c))
+                    res.append([r,c])
         return res
+        
