@@ -1,19 +1,17 @@
 class Solution:
     def canPartition(self, nums: List[int]) -> bool:
-        total_sum=sum(nums)
-        if total_sum%2:
+        total=sum(nums)
+        if total%2!=0:
             return False
-        target=total_sum//2
+        target=total//2
         dp=set()
-        dp.add(0)
+        dp.add(0) # base case
         for i in range(len(nums)-1,-1,-1):
             next_dp=set()
-            for t in dp:
-                if t+nums[i]==target:
+            for x in dp:
+                if x+nums[i]==target:
                     return True
-                next_dp.add(t)
-                next_dp.add(t+nums[i])
+                next_dp.add(x)
+                next_dp.add(x+nums[i])
             dp=next_dp
-        return True if target in dp else False
-
-        
+        return False
