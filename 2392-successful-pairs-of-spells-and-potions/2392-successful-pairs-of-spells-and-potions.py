@@ -15,7 +15,12 @@ class Solution:
             return best
         res=[]
         potions.sort()
+        memo={}
         for i in spells:
+            if i in memo:
+                res.append(memo[i])
+                continue
             j=binary_search(i)
+            memo[i]=(n-j)
             res.append(n-j)
         return res
