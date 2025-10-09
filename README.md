@@ -646,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/mohammedsuhail364/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/mohammedsuhail364/LeetCode/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0065-valid-number) |
+| [0072-edit-distance](https://github.com/mohammedsuhail364/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/mohammedsuhail364/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/mohammedsuhail364/LeetCode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/mohammedsuhail364/LeetCode/tree/master/0127-word-ladder) |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/mohammedsuhail364/LeetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/mohammedsuhail364/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/mohammedsuhail364/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohammedsuhail364/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
