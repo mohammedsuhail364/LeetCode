@@ -1,18 +1,18 @@
 class Solution:
     def minDistance(self, word1: str, word2: str) -> int:
-        # similiar to edit distance question
+        # similiar to edit distance and LCS question
         n,m=len(word1),len(word2)
-        memo={}
-        def dfs(i,j):
-            if (i,j) in memo:
-                return memo[i,j]
-            if i==n: # word1 consider as empty so return remain all word2 chars
-                return m-j
-            if j==m: # word2 consider as empty so return remain all word1 chars
-                return n-i
-            if word1[i]==word2[j]:
-                return dfs(i+1,j+1)
-            memo[i,j] = 1+min(dfs(i+1,j),dfs(i,j+1))
-            return memo[i,j]
-        return dfs(0,0)
-        
+        dp=[[0]*(m+1) for _ in range(n+1)]
+        for i in range(n):
+            dp[i][m]=(n-i)
+        for j in range(m):
+            dp[n][j]=(m-j)
+        for i in range(n-1,-1,-1):
+            for j in range(m-1,-1,-1):
+                if word1[i]==word2[j]:
+                    dp[i][j]=dp[i+1][j+1]
+                else:
+                    delete_from_word1=dp[i+1][j]
+                    delete_from_word2=dp[i][j+1]
+                    dp[i][j]=1+min(delete_from_word1,delete_from_word2)
+        return dp[0][0]
