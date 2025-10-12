@@ -1,10 +1,15 @@
 class Solution:
     def wiggleMaxLength(self, nums: List[int]) -> int:
-        inc=1
-        dec=1
-        for i in range(1,len(nums)):
-            if nums[i]>nums[i-1]:
-                inc=dec+1
-            elif nums[i]<nums[i-1]:
-                dec=inc+1 
-        return max(inc,dec)
+        n=len(nums)
+        @lru_cache(None)
+        def dfs(prev,cur,is_up):
+            if cur>=n:
+                return 0
+            # skip the current one
+            skip=dfs(prev,cur+1,is_up)
+            # include the current one
+            include=0
+            if prev==-1 or (nums[prev]<nums[cur] and is_up) or (nums[prev]>nums[cur] and not is_up):
+                include=1+dfs(cur,cur+1,not is_up)
+            return max(skip,include)
+        return max(dfs(-1,0,True),dfs(-1,0,False))
