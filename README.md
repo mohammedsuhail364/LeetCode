@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/mohammedsuhail364/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/mohammedsuhail364/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mohammedsuhail364/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohammedsuhail364/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/mohammedsuhail364/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/mohammedsuhail364/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mohammedsuhail364/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mohammedsuhail364/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/mohammedsuhail364/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohammedsuhail364/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/mohammedsuhail364/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/mohammedsuhail364/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mohammedsuhail364/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/mohammedsuhail364/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mohammedsuhail364/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohammedsuhail364/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mohammedsuhail364/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/mohammedsuhail364/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mohammedsuhail364/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -971,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/mohammedsuhail364/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1253-sort-the-matrix-diagonally](https://github.com/mohammedsuhail364/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/mohammedsuhail364/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohammedsuhail364/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mohammedsuhail364/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mohammedsuhail364/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/mohammedsuhail364/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
