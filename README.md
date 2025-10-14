@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3582-find-indices-of-stable-mountains](https://github.com/mohammedsuhail364/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mohammedsuhail364/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3639-zero-array-transformation-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3639-zero-array-transformation-i) |
