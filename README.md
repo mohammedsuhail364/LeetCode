@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3582-find-indices-of-stable-mountains](https://github.com/mohammedsuhail364/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mohammedsuhail364/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3639-zero-array-transformation-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -1052,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/mohammedsuhail364/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/mohammedsuhail364/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
