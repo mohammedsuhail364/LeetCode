@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/mohammedsuhail364/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mohammedsuhail364/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mohammedsuhail364/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/mohammedsuhail364/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/mohammedsuhail364/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/mohammedsuhail364/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2532-remove-letter-to-equalize-frequency](https://github.com/mohammedsuhail364/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2605-count-anagrams](https://github.com/mohammedsuhail364/LeetCode/tree/master/2605-count-anagrams) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mohammedsuhail364/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/mohammedsuhail364/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/mohammedsuhail364/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/mohammedsuhail364/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -939,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-count-anagrams](https://github.com/mohammedsuhail364/LeetCode/tree/master/2605-count-anagrams) |
 | [2610-closest-prime-numbers-in-range](https://github.com/mohammedsuhail364/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/mohammedsuhail364/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mohammedsuhail364/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/mohammedsuhail364/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/mohammedsuhail364/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/mohammedsuhail364/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -1220,6 +1223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/mohammedsuhail364/LeetCode/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mohammedsuhail364/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/mohammedsuhail364/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/mohammedsuhail364/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/mohammedsuhail364/LeetCode/tree/master/2716-prime-subtraction-operation) |
