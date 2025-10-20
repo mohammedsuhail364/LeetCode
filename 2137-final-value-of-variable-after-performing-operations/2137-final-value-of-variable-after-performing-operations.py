@@ -1,9 +1,4 @@
 class Solution:
     def finalValueAfterOperations(self, operations: List[str]) -> int:
-        res=0
-        for i in operations:
-            if i=='--X' or i=="X--":
-                res-=1
-            else:
-                res+=1
-        return res
+        return sum(1 if i[1]=='+' else -1 for i in operations )
+        
