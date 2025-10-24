@@ -1,25 +1,26 @@
 class Solution:
-    def exist(self, board, word: str) -> bool:
+    [["C","A","A"],
+     ["A","A","A"],
+     ["B","C","D"]]
+    def exist(self, board: List[List[str]], word: str) -> bool:
         rows=len(board)
         cols=len(board[0])
-        def bfs(r,c,i):
-            q=deque([(r,c,i)])
-            visit=set([(r,c)])
-            while q:
-                row,col,w=q.popleft()
-                if board[row][col]!=word[w]:
-                    continue
-                if w==len(word)-1:
-                    return True
-                for nr,nc in [(row+1,col),(row-1,col),(row,col+1),(row,col-1)]:
-                    if 0<=nr<rows and 0<=nc<cols and (nr,nc) not in visit and board[nr][nc]==word[w+1]:
-                        q.append((nr,nc,w+1))
-                        visit.add((nr,nc))
-            return True if w==len(word) else False
-
+        visit=set()
+        def dfs(r,c,i):
+            if i>=len(word):
+                return True
+            if r<0 or c<0 or r>=rows or c>=cols or (r,c) in visit: 
+                return False
+            if word[i]!=board[r][c]:
+                return False
+            visit.add((r,c))
+            x=dfs(r+1,c,i+1) or dfs(r-1,c,i+1) or dfs(r,c+1,i+1) or dfs(r,c-1,i+1)
+            visit.remove((r,c))
+            return x
+        
         for r in range(rows):
             for c in range(cols):
                 if board[r][c]==word[0]:
-                    if bfs(r,c,0):
+                    if dfs(r,c,0):
                         return True
         return False
