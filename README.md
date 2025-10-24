@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mohammedsuhail364/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/mohammedsuhail364/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mohammedsuhail364/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mohammedsuhail364/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -904,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/mohammedsuhail364/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mohammedsuhail364/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/mohammedsuhail364/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/mohammedsuhail364/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -960,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/mohammedsuhail364/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mohammedsuhail364/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/mohammedsuhail364/LeetCode/tree/master/2050-count-good-numbers) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/mohammedsuhail364/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -1411,6 +1414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/mohammedsuhail364/LeetCode/tree/master/1983-maximum-population-year) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/mohammedsuhail364/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/mohammedsuhail364/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mohammedsuhail364/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -1631,6 +1635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mohammedsuhail364/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/mohammedsuhail364/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mohammedsuhail364/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/mohammedsuhail364/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mohammedsuhail364/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/mohammedsuhail364/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
