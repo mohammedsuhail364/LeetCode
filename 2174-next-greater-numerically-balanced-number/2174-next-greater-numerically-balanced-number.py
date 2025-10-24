@@ -1,19 +1,10 @@
 class Solution:
     def nextBeautifulNumber(self, n: int) -> int:
-        i=n+1
-        def is_balanced(i):
-            temp=i
-            freq=defaultdict(int)
-            while temp:
-                rem=temp%10
-                freq[rem]+=1
-                temp=temp//10
-            for i,j in freq.items():
-                if i!=j:
-                    return False
-            return True
-        while True:
-            if is_balanced(i):
-                return i
-            i+=1
-        
+        balanced_numbers=set()
+        base_numbers = ["1", "22", "122", "333", "1333", "4444", "14444", "22333", "55555", "122333", "155555", "224444", "666666", "1224444", "1666666", "2255555", "3334444", "7777777", "12255555"]
+        for i in base_numbers:
+            for x in permutations(i):
+                balanced_numbers.add(int(''.join(x)))
+        arr=sorted(balanced_numbers)
+        idx=bisect.bisect_right(arr,n)
+        return arr[idx]
