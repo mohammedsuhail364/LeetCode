@@ -4,16 +4,16 @@ class Solution:
         part=[]
         def dfs(i):
             if i>=len(s):
-                res.append(part.copy())
-                return 
+                res.append(part[:])
+                return
             for j in range(i,len(s)):
-                if self.ispalindrome(s,i,j):
+                if self.is_palidrome(s,i,j):
                     part.append(s[i:j+1])
                     dfs(j+1)
                     part.pop()
         dfs(0)
         return res
-    def ispalindrome(self,s,l,r):
+    def is_palidrome(self,s,l,r)->bool:
         while l<r:
             if s[l]!=s[r]:
                 return False
