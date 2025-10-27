@@ -1,25 +1,24 @@
 class Solution:
     def solveNQueens(self, n: int) -> List[List[str]]:
         res=[]
-        board=[['.']*n for i in range(n)]
+        board=[['.']*n for i in range(n)] 
         cols=set()
-        neg_diag=set()
-        pos_diag=set()
-        def backtrack(r):
+        pos_diagonal=set()
+        neg_diagonal=set()
+        def dfs(r,c):
             if r==n:
-                copy=[''.join(row) for row in board]
-                res.append(copy)
-                return 
+                res.append([''.join(x) for x in board])
+                return
             for c in range(n):
-                if c not in cols and (r-c) not in neg_diag and (r+c) not in pos_diag:
+                if c not in cols and (r-c) not in neg_diagonal and (r+c) not in pos_diagonal:
+                    board[r][c]='Q'
                     cols.add(c)
-                    neg_diag.add(r-c)
-                    pos_diag.add(r+c)
-                    board[r][c]="Q"
-                    backtrack(r+1)
+                    neg_diagonal.add(r-c)
+                    pos_diagonal.add(r+c)
+                    dfs(r+1,c)
+                    board[r][c]='.'
                     cols.remove(c)
-                    neg_diag.remove(r-c)
-                    pos_diag.remove(r+c)
-                    board[r][c]="."
-        backtrack(0)
+                    neg_diagonal.remove(r-c)
+                    pos_diagonal.remove(r+c)
+        dfs(0,0)
         return res
