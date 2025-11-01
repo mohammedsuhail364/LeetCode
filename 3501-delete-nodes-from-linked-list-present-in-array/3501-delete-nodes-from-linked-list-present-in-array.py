@@ -8,13 +8,13 @@ class Solution:
         nums=set(nums)
         res=ListNode(0,head)
         prev=res
-        cur=head
-        while cur:
-            if cur.val in nums:
-                prev.next=cur.next
+        
+        while head:
+            if head.val in nums:
+                prev.next=head.next
             else:
                 prev=prev.next
-            cur=cur.next
+            head=head.next
         return res.next
         
             
