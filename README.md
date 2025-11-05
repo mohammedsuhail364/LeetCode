@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mohammedsuhail364/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mohammedsuhail364/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohammedsuhail364/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3979-partition-array-into-k-distinct-groups](https://github.com/mohammedsuhail364/LeetCode/tree/master/3979-partition-array-into-k-distinct-groups) |
 ## Hash Table
 |  |
 | ------- |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/mohammedsuhail364/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/mohammedsuhail364/LeetCode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mohammedsuhail364/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3979-partition-array-into-k-distinct-groups](https://github.com/mohammedsuhail364/LeetCode/tree/master/3979-partition-array-into-k-distinct-groups) |
 ## Tree
 |  |
 | ------- |
@@ -1481,6 +1483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/mohammedsuhail364/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mohammedsuhail364/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3979-partition-array-into-k-distinct-groups](https://github.com/mohammedsuhail364/LeetCode/tree/master/3979-partition-array-into-k-distinct-groups) |
 ## Rolling Hash
 |  |
 | ------- |
