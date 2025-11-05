@@ -4,7 +4,7 @@ class Solution:
         if len(nums)%k!=0:
             return False
         groups=len(nums)//k
-        for i,j in freq.items():
+        for j in freq.values():
             if j>groups:
                 return False
         return True
