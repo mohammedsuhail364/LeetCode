@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/mohammedsuhail364/LeetCode/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/mohammedsuhail364/LeetCode/tree/master/0965-unique-email-addresses) |
 | [0976-minimum-area-rectangle](https://github.com/mohammedsuhail364/LeetCode/tree/master/0976-minimum-area-rectangle) |
+| [0978-valid-mountain-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0978-valid-mountain-array) |
 | [0980-find-the-shortest-superstring](https://github.com/mohammedsuhail364/LeetCode/tree/master/0980-find-the-shortest-superstring) |
 | [1003-minimum-area-rectangle-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/1003-minimum-area-rectangle-ii) |
 | [1006-vowel-spellchecker](https://github.com/mohammedsuhail364/LeetCode/tree/master/1006-vowel-spellchecker) |
