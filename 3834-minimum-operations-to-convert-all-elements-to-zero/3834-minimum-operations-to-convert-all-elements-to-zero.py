@@ -1,6 +1,6 @@
 class Solution:
     def minOperations(self, nums: List[int]) -> int:
-        # refer neetcode
+        # [3,4,3,0,1,2,1,2,5]
         stack=[]
         res=0
         for n in nums:
@@ -8,7 +8,7 @@ class Solution:
                 stack.pop()
             if n==0:
                 continue
-            if not stack or stack[-1]!=n:
+            if not stack or stack[-1]<n:
                 res+=1
                 stack.append(n)
         return res
