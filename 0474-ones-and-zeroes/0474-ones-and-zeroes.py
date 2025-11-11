@@ -1,5 +1,6 @@
 class Solution:
     def findMaxForm(self, strs: List[str], m: int, n: int) -> int:
+        @lru_cache(None)
         def dfs(i,zero,one):
             if i>=len(strs) or zero>m or one>n:
                 return 0
