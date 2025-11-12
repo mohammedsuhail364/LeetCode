@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/mohammedsuhail364/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2716-prime-subtraction-operation](https://github.com/mohammedsuhail364/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/mohammedsuhail364/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/mohammedsuhail364/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -1042,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mohammedsuhail364/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/mohammedsuhail364/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/mohammedsuhail364/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/mohammedsuhail364/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/mohammedsuhail364/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/mohammedsuhail364/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/mohammedsuhail364/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -1711,6 +1713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/mohammedsuhail364/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/mohammedsuhail364/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/mohammedsuhail364/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
