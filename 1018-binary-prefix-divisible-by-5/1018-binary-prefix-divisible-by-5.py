@@ -3,6 +3,6 @@ class Solution:
         res=[]
         cur=0
         for n in nums:
-            cur=(cur<<1 | n)
+            cur=((cur<<1 | n) %5)
             res.append(cur%5==0)
         return res
