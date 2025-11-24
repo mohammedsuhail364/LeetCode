@@ -14,6 +14,8 @@ class Solution:
     def isSame(self,p,q):
         if not p and not q:
             return True
-        if not p or not q or p.val!=q.val:
+        if not p or not q:
             return False
-        return self.isSame(p.left,q.left) and self.isSame(p.right,q.right)
+        return p.val==q.val and self.isSame(p.left , q.left) and self.isSame(p.right,q.right)
+
+        
