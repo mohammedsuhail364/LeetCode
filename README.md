@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/mohammedsuhail364/LeetCode/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/mohammedsuhail364/LeetCode/tree/master/0965-unique-email-addresses) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/mohammedsuhail364/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-minimum-area-rectangle](https://github.com/mohammedsuhail364/LeetCode/tree/master/0976-minimum-area-rectangle) |
 | [0978-valid-mountain-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0978-valid-mountain-array) |
 | [0980-find-the-shortest-superstring](https://github.com/mohammedsuhail364/LeetCode/tree/master/0980-find-the-shortest-superstring) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/mohammedsuhail364/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/mohammedsuhail364/LeetCode/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/mohammedsuhail364/LeetCode/tree/master/0965-unique-email-addresses) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/mohammedsuhail364/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-minimum-area-rectangle](https://github.com/mohammedsuhail364/LeetCode/tree/master/0976-minimum-area-rectangle) |
 | [1003-minimum-area-rectangle-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/1003-minimum-area-rectangle-ii) |
 | [1006-vowel-spellchecker](https://github.com/mohammedsuhail364/LeetCode/tree/master/1006-vowel-spellchecker) |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/mohammedsuhail364/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0939-valid-permutations-for-di-sequence](https://github.com/mohammedsuhail364/LeetCode/tree/master/0939-valid-permutations-for-di-sequence) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/mohammedsuhail364/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/mohammedsuhail364/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/mohammedsuhail364/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
