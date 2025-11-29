@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mohammedsuhail364/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mohammedsuhail364/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/mohammedsuhail364/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/mohammedsuhail364/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/mohammedsuhail364/LeetCode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/mohammedsuhail364/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mohammedsuhail364/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/mohammedsuhail364/LeetCode/tree/master/1558-course-schedule-iv) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mohammedsuhail364/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mohammedsuhail364/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/mohammedsuhail364/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -716,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mohammedsuhail364/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/mohammedsuhail364/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/mohammedsuhail364/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mohammedsuhail364/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
