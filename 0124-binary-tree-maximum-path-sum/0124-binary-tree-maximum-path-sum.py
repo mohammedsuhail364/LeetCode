@@ -13,8 +13,9 @@ class Solution:
                 return 0
             left=max(0,dfs(node.left))
             right=max(0,dfs(node.right))
-            curr=left+right+node.val
-            res=max(res,curr)
+            cur=left+right+node.val
+            res=max(res,cur)
             return max(left,right)+node.val
+        
         dfs(root)
         return res
