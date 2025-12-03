@@ -9,21 +9,15 @@ class Solution:
         """
         Do not return anything, modify root in-place instead.
         """
-        if not root:
-            return
-        temp=[]
+        # refer take u forward
+        prev=None
         def dfs(node):
-            if node:
-                temp.append(node.val)
-                dfs(node.left)
-                dfs(node.right)
+            nonlocal prev
+            if not node:
+                return 
+            dfs(node.right)
+            dfs(node.left)
+            node.right=prev
+            node.left=None
+            prev=node
         dfs(root)
-
-        root.left=None
-        root.right=None
-        res=root
-        for n in temp[1:]:
-            root.right=TreeNode(n)
-            root=root.right
-        return res
-        
