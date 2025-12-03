@@ -13,16 +13,21 @@ class Codec:
         :type root: TreeNode
         :rtype: str
         """
+        # refer neetcode
+        # done with a preorder
         res=[]
         def dfs(node):
             if not node:
-                res.append('N')
-                return 
+                res.append("N")
+                return
             res.append(str(node.val))
             dfs(node.left)
             dfs(node.right)
         dfs(root)
         return ','.join(res)
+
+        
+
     def deserialize(self, data):
         """Decodes your encoded data to tree.
         
@@ -30,13 +35,14 @@ class Codec:
         :rtype: TreeNode
         """
         vals=data.split(",")
-        self.i=0
+        index=0
         def dfs():
-            if vals[self.i]=='N':
-                self.i+=1
-                return
-            node=TreeNode(int(vals[self.i]))
-            self.i+=1
+            nonlocal index
+            if vals[index]=="N":
+                index+=1
+                return None
+            node=TreeNode(int(vals[index]))
+            index+=1
             node.left=dfs()
             node.right=dfs()
             return node
