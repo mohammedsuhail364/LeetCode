@@ -9,7 +9,7 @@ class Solution:
         def validate(node,left_max,right_max):
             if not node:
                 return True
-            if node.val<left_max or node.val>right_max:
+            if node.val<=left_max or node.val>=right_max:
                 return False
             left = validate(node.left,left_max,node.val)
             right = validate(node.right,node.val,right_max)
