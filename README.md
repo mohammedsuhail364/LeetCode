@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mohammedsuhail364/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/mohammedsuhail364/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2653-sliding-subarray-beauty](https://github.com/mohammedsuhail364/LeetCode/tree/master/2653-sliding-subarray-beauty) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mohammedsuhail364/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/mohammedsuhail364/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/mohammedsuhail364/LeetCode/tree/master/2689-rearranging-fruits) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2532-remove-letter-to-equalize-frequency](https://github.com/mohammedsuhail364/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2605-count-anagrams](https://github.com/mohammedsuhail364/LeetCode/tree/master/2605-count-anagrams) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2653-sliding-subarray-beauty](https://github.com/mohammedsuhail364/LeetCode/tree/master/2653-sliding-subarray-beauty) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mohammedsuhail364/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/mohammedsuhail364/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/mohammedsuhail364/LeetCode/tree/master/2689-rearranging-fruits) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/mohammedsuhail364/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/mohammedsuhail364/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2653-sliding-subarray-beauty](https://github.com/mohammedsuhail364/LeetCode/tree/master/2653-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/mohammedsuhail364/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohammedsuhail364/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
