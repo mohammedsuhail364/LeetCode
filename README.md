@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/mohammedsuhail364/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/mohammedsuhail364/LeetCode/tree/master/0854-making-a-large-island) |
 | [0862-find-and-replace-in-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/0862-find-and-replace-in-string) |
+| [0881-boats-to-save-people](https://github.com/mohammedsuhail364/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/mohammedsuhail364/LeetCode/tree/master/0898-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/mohammedsuhail364/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -1177,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/mohammedsuhail364/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mohammedsuhail364/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0862-find-and-replace-in-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/0862-find-and-replace-in-string) |
+| [0881-boats-to-save-people](https://github.com/mohammedsuhail364/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0900-reordered-power-of-2](https://github.com/mohammedsuhail364/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0948-sort-an-array) |
 | [0976-minimum-area-rectangle](https://github.com/mohammedsuhail364/LeetCode/tree/master/0976-minimum-area-rectangle) |
@@ -1404,6 +1406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-expressive-words](https://github.com/mohammedsuhail364/LeetCode/tree/master/0827-expressive-words) |
 | [0868-push-dominoes](https://github.com/mohammedsuhail364/LeetCode/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/mohammedsuhail364/LeetCode/tree/master/0874-backspace-string-compare) |
+| [0881-boats-to-save-people](https://github.com/mohammedsuhail364/LeetCode/tree/master/0881-boats-to-save-people) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mohammedsuhail364/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2551-apply-operations-to-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -1428,6 +1431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/mohammedsuhail364/LeetCode/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/mohammedsuhail364/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/mohammedsuhail364/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0881-boats-to-save-people](https://github.com/mohammedsuhail364/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/mohammedsuhail364/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/mohammedsuhail364/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mohammedsuhail364/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
