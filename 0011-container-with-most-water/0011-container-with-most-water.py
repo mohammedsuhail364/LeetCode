@@ -4,8 +4,8 @@ class Solution:
         r=len(height)-1
         res=0
         while l<r:
-            max_area=(r-l)*min(height[l],height[r])
-            res=max(res,max_area)
+            area=((r-l)*min(height[l],height[r]))
+            res=max(res,area)
             if height[l]<=height[r]:
                 l+=1
             else:
