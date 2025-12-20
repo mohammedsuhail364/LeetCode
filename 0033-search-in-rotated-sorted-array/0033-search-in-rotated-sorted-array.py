@@ -6,18 +6,19 @@ class Solution:
             m=(l+r)//2
             if nums[m]==target:
                 return m
-            # left sorted portion
-
+            # we can only check in the sorted position 
+            # first we can check if the left side is sorted or not
             if nums[l]<=nums[m]:
-                if target>nums[m] or target<nums[l]:
-                    l=m+1
+                # we can check the target is in the left side
+                if nums[l]<=target<nums[m]:
+                    r=m-1 # move the right pointer to mid - 1 and check
                 else:
-                    r=m-1
-            # right sorted portion
+                    # in this time we know target is not in the left side so we can move the left pointer to mid+1
+                    l=m+1 
             else:
-                if target<nums[m] or target>nums[r]:
-                    r=m-1
-                else:
+                # we can identify the right is sorted
+                if nums[m]<target<=nums[r]: # we can check the target is in the right side
                     l=m+1
+                else:
+                    r=m-1
         return -1
-                
