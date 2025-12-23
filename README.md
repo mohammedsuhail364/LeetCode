@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/mohammedsuhail364/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/mohammedsuhail364/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/mohammedsuhail364/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1876-map-of-highest-peak](https://github.com/mohammedsuhail364/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mohammedsuhail364/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mohammedsuhail364/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -1292,6 +1293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/mohammedsuhail364/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/mohammedsuhail364/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/mohammedsuhail364/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/mohammedsuhail364/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
