@@ -1,12 +1,11 @@
 class Solution:
     def findClosestElements(self, arr: List[int], k: int, x: int) -> List[int]:
-        l=0
-        r=len(arr)-1
-        # we can shrink the window 
-        while (r-l+1)>k:
-            # compare the left value with right value
-            if abs(arr[l]-x)>abs(arr[r]-x):
-                l+=1
-            else:
-                r-=1
-        return arr[l:r+1]
+        min_heap=[]
+        for i in arr:
+            heappush(min_heap,(abs(i-x),i))
+        res=[]
+        while k:
+            diff,val=heappop(min_heap)
+            res.append(val)
+            k-=1
+        return sorted(res)
