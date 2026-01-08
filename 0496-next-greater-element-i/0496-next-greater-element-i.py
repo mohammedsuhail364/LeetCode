@@ -1,11 +1,12 @@
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        index={n:i for i,n in enumerate(nums2)}
-        res=[-1]*len(nums1)
-        for i in range(len(nums1)):
-            idx=index[nums1[i]]
-            for x in range(idx+1,len(nums2)):
-                if nums2[idx]<nums2[x]:
-                    res[i]=nums2[x]
-                    break
-        return res
+        nge={}
+        stack =[] # monotonic decreasing 
+        for n in nums2:
+            while stack and stack[-1]<n:
+                tmp=stack.pop()
+                nge[tmp]=n # this was the first greater element to this number
+            stack.append(n)
+        for n in stack: # no greater element 
+            nge[n]=-1
+        return [nge[n] for n in nums1]
