@@ -1428,6 +1428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0816-design-hashset](https://github.com/mohammedsuhail364/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/mohammedsuhail364/LeetCode/tree/master/0817-design-hashmap) |
+| [0901-online-stock-span](https://github.com/mohammedsuhail364/LeetCode/tree/master/0901-online-stock-span) |
 | [0931-maximum-frequency-stack](https://github.com/mohammedsuhail364/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [0936-rle-iterator](https://github.com/mohammedsuhail364/LeetCode/tree/master/0936-rle-iterator) |
 | [1023-time-based-key-value-store](https://github.com/mohammedsuhail364/LeetCode/tree/master/1023-time-based-key-value-store) |
@@ -1760,6 +1761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/mohammedsuhail364/LeetCode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/mohammedsuhail364/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0874-backspace-string-compare](https://github.com/mohammedsuhail364/LeetCode/tree/master/0874-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/mohammedsuhail364/LeetCode/tree/master/0901-online-stock-span) |
 | [0931-maximum-frequency-stack](https://github.com/mohammedsuhail364/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [1021-remove-outermost-parentheses](https://github.com/mohammedsuhail364/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/mohammedsuhail364/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1851,6 +1853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/mohammedsuhail364/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/mohammedsuhail364/LeetCode/tree/master/0901-online-stock-span) |
 | [1628-count-submatrices-with-all-ones](https://github.com/mohammedsuhail364/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mohammedsuhail364/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -1923,6 +1926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/mohammedsuhail364/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/mohammedsuhail364/LeetCode/tree/master/0901-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/mohammedsuhail364/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Number Theory
 |  |
