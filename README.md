@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-minimum-area-rectangle](https://github.com/mohammedsuhail364/LeetCode/tree/master/0976-minimum-area-rectangle) |
 | [0978-valid-mountain-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0978-valid-mountain-array) |
 | [0980-find-the-shortest-superstring](https://github.com/mohammedsuhail364/LeetCode/tree/master/0980-find-the-shortest-superstring) |
+| [0986-interval-list-intersections](https://github.com/mohammedsuhail364/LeetCode/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mohammedsuhail364/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1003-minimum-area-rectangle-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/1003-minimum-area-rectangle-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/mohammedsuhail364/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -1491,6 +1492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/mohammedsuhail364/LeetCode/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/mohammedsuhail364/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/mohammedsuhail364/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0986-interval-list-intersections](https://github.com/mohammedsuhail364/LeetCode/tree/master/0986-interval-list-intersections) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mohammedsuhail364/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2551-apply-operations-to-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -2059,4 +2061,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-find-the-shortest-superstring](https://github.com/mohammedsuhail364/LeetCode/tree/master/0980-find-the-shortest-superstring) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/mohammedsuhail364/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mohammedsuhail364/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Line Sweep
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/mohammedsuhail364/LeetCode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
