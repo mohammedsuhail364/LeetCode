@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/mohammedsuhail364/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/mohammedsuhail364/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2104-sum-of-subarray-ranges](https://github.com/mohammedsuhail364/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2107-find-unique-binary-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mohammedsuhail364/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/mohammedsuhail364/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -1784,6 +1785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mohammedsuhail364/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mohammedsuhail364/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2104-sum-of-subarray-ranges](https://github.com/mohammedsuhail364/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -1877,6 +1879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mohammedsuhail364/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/mohammedsuhail364/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/mohammedsuhail364/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mohammedsuhail364/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Recursion
 |  |
