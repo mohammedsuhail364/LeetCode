@@ -1,44 +1,30 @@
 class Solution:
     def maximalRectangle(self, matrix: List[List[str]]) -> int:
-        temp=[]
-        for li in matrix:
-            if temp:
-                tmp=list(map(int,li))
-                tmp1=temp[-1]
-                for i in range(len(tmp)):
-                    if tmp[i]:
-                        tmp[i]=tmp1[i]+tmp[i]
-                temp.append(tmp)
-            else:
-                temp.append(list(map(int,li)))
-        def findNSE(nums):
+        def largestRectangleArea(heights: List[int]) -> int:
+            # refer neetcode
+            n=len(heights)
+            max_area=0
             stack=[]
-            nse=[len(nums)]*len(nums)
-            for i in range(len(nums)):
-                while stack and nums[stack[-1]]>nums[i]:
-                    idx=stack.pop()
-                    nse[idx]=i
-                stack.append(i)
-            return nse
-        def findPSEE(nums):
-            stack=[]
-            pse=[-1]*len(nums)
-            for i in range(len(nums)):
-                while stack and nums[stack[-1]]>nums[i]:
-                    stack.pop()
-                if stack:
-                    pse[i]=stack[-1]
-                stack.append(i)
-            return pse
+            for i in range(n):
+                start=i
+                while stack and stack[-1][-1]>heights[i]: # that means top of the stack is invalid it cannot move further we can calculate the res for the top of the stack
+                    idx,h=stack.pop()
+                    max_area=max(max_area,h*(i-idx)) # refers width
+                    start=idx # this line tells current index is start at the idx why ? because heights[idx]>heights[i] so possibly it can extend left also that is the indication
+                stack.append((start,heights[i]))
+            for i,h in stack:
+                max_area=max(max_area,h*(n-i)) # refers width
+            return max_area
+        # refer this 84. Largest Rectangle in Histogram
+        # same logic used here
+        heights=[0]*len(matrix[0])
         res=0
-        for li in temp:
-            nse=findNSE(li)
-            pse=findPSEE(li)
-            for i in range(len(li)):
-                width=nse[i]-pse[i]-1
-                height=li[i]
-                res=max(res,width*height)
+        for row in matrix:
+            for c in range(len(row)):
+                if row[c]=='1':
+                    heights[c]+=1
+                else:
+                    heights[c]=0
+            res=max(res,largestRectangleArea(heights))
         return res
-
-[["0","1"],
- ["1","0"]]
+                
