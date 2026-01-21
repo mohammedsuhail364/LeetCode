@@ -1,22 +1,21 @@
 class Solution:
+    def largestRectangleArea(self, heights: List[int]) -> int:
+        stack=[]
+        res=0
+        n=len(heights)
+        for i in range(len(heights)):
+            start=i
+            while stack and stack[-1][-1]>heights[i]: # this line indicates stack[-1][-1] is invalid after our current heights[i] because it cannot extend due to our heights[i] is lesser than this so we can pop that and find their value
+                idx,h=stack.pop()
+                res=max(res,(i-idx)*h) # (i-idx) refers to width
+                start=idx # this line indicates our heights[i]'s left boundary is extend due to the higher value of stack[-1][-1]
+            # final calculation if stack is non empty
+            stack.append((start,heights[i]))
+        for idx,h in stack:
+            res=max(res,(n-idx)*h)
+            
+        return res
     def maximalRectangle(self, matrix: List[List[str]]) -> int:
-        def largestRectangleArea(heights: List[int]) -> int:
-            # refer neetcode
-            n=len(heights)
-            max_area=0
-            stack=[]
-            for i in range(n):
-                start=i
-                while stack and stack[-1][-1]>heights[i]: # that means top of the stack is invalid it cannot move further we can calculate the res for the top of the stack
-                    idx,h=stack.pop()
-                    max_area=max(max_area,h*(i-idx)) # refers width
-                    start=idx # this line tells current index is start at the idx why ? because heights[idx]>heights[i] so possibly it can extend left also that is the indication
-                stack.append((start,heights[i]))
-            for i,h in stack:
-                max_area=max(max_area,h*(n-i)) # refers width
-            return max_area
-        # refer this 84. Largest Rectangle in Histogram
-        # same logic used here
         heights=[0]*len(matrix[0])
         res=0
         for row in matrix:
@@ -25,6 +24,8 @@ class Solution:
                     heights[c]+=1
                 else:
                     heights[c]=0
-            res=max(res,largestRectangleArea(heights))
+            res=max(res,self.largestRectangleArea(heights))
         return res
-                
+        
+
+    
