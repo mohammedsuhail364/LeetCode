@@ -1,9 +1,9 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        cache={}
-        for n in range(len(nums)):
-            rem=target-nums[n]
-            if rem in cache:
-                return [cache[rem],n]
-            cache[nums[n]]=n
-        return []
+        seen={}
+        for i in range(len(nums)):
+            rem=target-nums[i]
+            if rem in seen:
+                return [seen[rem],i]
+            seen[nums[i]]=i
+        return [-1,-1]
