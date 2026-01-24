@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/mohammedsuhail364/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/mohammedsuhail364/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/mohammedsuhail364/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/mohammedsuhail364/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/mohammedsuhail364/LeetCode/tree/master/0217-contains-duplicate) |
@@ -1143,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/mohammedsuhail364/LeetCode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohammedsuhail364/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/mohammedsuhail364/LeetCode/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/mohammedsuhail364/LeetCode/tree/master/0231-power-of-two) |
@@ -1505,6 +1507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/mohammedsuhail364/LeetCode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohammedsuhail364/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/mohammedsuhail364/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/mohammedsuhail364/LeetCode/tree/master/0295-find-median-from-data-stream) |
