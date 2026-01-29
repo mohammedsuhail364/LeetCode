@@ -1,14 +1,14 @@
-from collections import defaultdict
 class Solution:
     def subarraysDivByK(self, nums, k: int) -> int:
-        pre_sum=0
-        
-        seen=defaultdict(int)
-        seen[0]=1 # refers if the eg like this nums=[5] and k=5 we can iterate this temp=5%5=0 then we can search in seen but it gives zero if we dont initialize 
+        pre_sum={0:1}
+        cur_sum=0
         res=0
         for n in nums:
-            pre_sum+=n
-            temp=pre_sum%k
-            res+=seen[temp]
-            seen[temp]+=1
+            cur_sum+=n
+            target=cur_sum%k
+            if target in pre_sum:
+                res+=pre_sum[target]
+            if target not in pre_sum:
+                pre_sum[target]=0
+            pre_sum[target]+=1
         return res
