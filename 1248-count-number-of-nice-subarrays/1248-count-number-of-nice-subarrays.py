@@ -1,15 +1,14 @@
 class Solution:
     def numberOfSubarrays(self, nums, k: int) -> int:
-        pre_sum={0:1}
-        odd=0
-        res=0
-        for i in nums:
-            if i%2:
-                odd+=1
-            target=odd-k
-            if target in pre_sum:
-                res+=pre_sum[target]
-            if odd not in pre_sum:
-                pre_sum[odd]=0
-            pre_sum[odd]+=1
-        return res
+        def count_subarray_less_than_k(k):
+            l=0
+            odd=0
+            res=0
+            for r in range(len(nums)):
+                odd+=nums[r]%2
+                while odd>k:
+                    odd-=nums[l]%2
+                    l+=1
+                res+=(r-l)
+            return res
+        return count_subarray_less_than_k(k)-count_subarray_less_than_k(k-1)
