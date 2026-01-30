@@ -1,24 +1,25 @@
 from typing import List
 class NumMatrix:
-
+    # refer neetcode and see this code if you dont understand
     def __init__(self, matrix: List[List[int]]):
-        self.pre_sum=[[0] for i in range(len(matrix))]
-        for r,row in enumerate(matrix):
-            pre=self.pre_sum[r]
-            for n in row:
-                pre.append(pre[-1]+n)
-# [[0, 3, 3, 4, 8, 10], 
-#  [0, 5, 11, 14, 16, 17], 
-#  [0, 1, 3, 3, 4, 9], 
-#  [0, 4, 5, 5, 6, 13], 
-#  [0, 1, 1, 4, 4, 9]]
+        ROWS=len(matrix)
+        COLS=len(matrix[0])
+        self.pre_sum=[[0]*(COLS+1) for i in range(ROWS+1)]
+        for r in range(ROWS):
+            prefix=0
+            for c in range(COLS):
+                prefix+=matrix[r][c]
+                above=self.pre_sum[r][c+1]
+                self.pre_sum[r+1][c+1]=prefix+above
     def sumRegion(self, row1: int, col1: int, row2: int, col2: int) -> int:
-        res=0
-        while row1<=row2:
-            start=self.pre_sum[row1]
-            res+=start[col2+1]-start[col1]
-            row1+=1
-        return res
+
+        r1,c1,r2,c2=row1+1,col1+1,row2+1,col2+1
+        bottomRight=self.pre_sum[r2][c2]
+        topLeft=self.pre_sum[r1-1][c1-1]
+        topRight=self.pre_sum[r1-1][c2]
+        bottomLeft=self.pre_sum[r2][c1-1]
+        ans=bottomRight-bottomLeft-topRight+topLeft
+        return ans
         
 
         
