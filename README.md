@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/mohammedsuhail364/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mohammedsuhail364/LeetCode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/mohammedsuhail364/LeetCode/tree/master/0740-delete-and-earn) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/mohammedsuhail364/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mohammedsuhail364/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/mohammedsuhail364/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -1385,6 +1386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/mohammedsuhail364/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mohammedsuhail364/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0731-my-calendar-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/mohammedsuhail364/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0794-swim-in-rising-water](https://github.com/mohammedsuhail364/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
