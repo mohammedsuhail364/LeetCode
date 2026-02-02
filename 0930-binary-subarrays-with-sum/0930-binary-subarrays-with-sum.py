@@ -1,16 +1,17 @@
 class Solution:
     def numSubarraysWithSum(self, nums: List[int], goal: int) -> int:
-        def findSumLessThanK(k):
-            l=0
-            res=0
-            cur_sum=0
-            for r in range(len(nums)):
-                cur_sum+=nums[r]
-                while l<=r and cur_sum>k:
-                    cur_sum-=nums[l]
-                    l+=1
-                res+=(r-l+1)
-            return res
-        return findSumLessThanK(goal)-findSumLessThanK(goal-1)
+        pre_sum={0:1}
+        cur_sum=0
+        res=0
+        for n in nums:
+            cur_sum+=n
+            target=cur_sum-goal
+            if target in pre_sum:
+                res+=pre_sum[target]
+            if cur_sum not in pre_sum:
+                pre_sum[cur_sum]=0
+            pre_sum[cur_sum]+=1
+        return res
+
 
         
