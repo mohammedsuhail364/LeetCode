@@ -1,14 +1,16 @@
 class Solution:
     def numSubarraysWithSum(self, nums: List[int], goal: int) -> int:
-        def subarrayLessThanOrEqualToGoal(goal):
+        def findSumLessThanK(k):
+            l=0
             res=0
             cur_sum=0
-            l=0
             for r in range(len(nums)):
                 cur_sum+=nums[r]
-                while l<=r and cur_sum>goal:
+                while l<=r and cur_sum>k:
                     cur_sum-=nums[l]
                     l+=1
-                res+=(r-l+1) 
+                res+=(r-l+1)
             return res
-        return subarrayLessThanOrEqualToGoal(goal)-subarrayLessThanOrEqualToGoal(goal-1)
+        return findSumLessThanK(goal)-findSumLessThanK(goal-1)
+
+        
