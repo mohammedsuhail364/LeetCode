@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/mohammedsuhail364/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/mohammedsuhail364/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1063-best-sightseeing-pair](https://github.com/mohammedsuhail364/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/mohammedsuhail364/LeetCode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mohammedsuhail364/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/mohammedsuhail364/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/mohammedsuhail364/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/mohammedsuhail364/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/mohammedsuhail364/LeetCode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/mohammedsuhail364/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/mohammedsuhail364/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mohammedsuhail364/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohammedsuhail364/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mohammedsuhail364/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/mohammedsuhail364/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/mohammedsuhail364/LeetCode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1314-matrix-block-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/1314-matrix-block-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohammedsuhail364/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -1919,6 +1922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/mohammedsuhail364/LeetCode/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/mohammedsuhail364/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/mohammedsuhail364/LeetCode/tree/master/1036-rotting-oranges) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/mohammedsuhail364/LeetCode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1253-sort-the-matrix-diagonally](https://github.com/mohammedsuhail364/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1314-matrix-block-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/1314-matrix-block-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohammedsuhail364/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
