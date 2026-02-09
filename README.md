@@ -2191,4 +2191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mohammedsuhail364/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/mohammedsuhail364/LeetCode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
