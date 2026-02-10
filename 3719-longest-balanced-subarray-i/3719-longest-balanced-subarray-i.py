@@ -2,6 +2,8 @@ class Solution:
     def longestBalanced(self, nums: List[int]) -> int:
         res=0
         for i in range(len(nums)):
+            if res>len(nums)-i:
+                break
             even=set()
             odd=set()
             for j in range(i,len(nums)):
