@@ -1,10 +1,13 @@
 class Solution:
-    def myPow(self, a: float, b: int) -> float:
-        res=1
-        power=abs(b)
-        while power>0:
-            if power%2:
-                res*=a
-            a=a*a
-            power=power//2
-        return res if b>=0 else 1/res
+    def myPow(self, x: float, n: int) -> float:
+        def helper(x,n):
+            if x==0:return 0
+            if n==0:return 1
+            half=helper(x,n//2)
+            if n%2:
+                return half*half*x
+            return half*half
+        res=helper(x,abs(n))
+        if n<0:
+            return 1/res
+        return res
