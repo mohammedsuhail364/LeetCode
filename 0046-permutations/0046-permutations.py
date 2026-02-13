@@ -4,9 +4,10 @@ class Solution:
         def dfs(path):
             if len(path)>=len(nums):
                 res.append(path)
-                return
+                return 
             for j in nums:
-                if j not in path:
-                    dfs(path+[j])
+                if j in path:
+                    continue
+                dfs(path+[j])
         dfs([])
         return res
