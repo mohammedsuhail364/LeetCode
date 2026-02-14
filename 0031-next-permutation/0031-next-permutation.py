@@ -12,6 +12,11 @@ class Solution:
         # 1. find the non decreasing order from backwards
         # 2. swap the smallest one after the break
         # 3. reverse the slicing part
+        def reverseNums(i,j):
+            while i<j:
+                nums[i],nums[j]=nums[j],nums[i]
+                i+=1
+                j-=1
         n=len(nums)
         i=n-2
         while True:
@@ -27,4 +32,6 @@ class Solution:
                 j-=1
             # swap the small number after the break point and break point
             nums[i],nums[j]=nums[j],nums[i]
-        nums[i+1:]=nums[i+1:][::-1]
+        reverseNums(i+1,n-1)
+        
+        
