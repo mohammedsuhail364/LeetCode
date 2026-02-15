@@ -2,13 +2,12 @@ class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         res=[]
         def dfs(i,path,cur_sum):
+            if i==len(candidates) or cur_sum>target:
+                return
             if cur_sum==target:
                 res.append(path)
-                return 
-            if cur_sum>target or i>=len(candidates):
                 return
-            # include the current one
-            for j in range(i,len(candidates)):
-                dfs(j,path+[candidates[j]],cur_sum+candidates[j])
+            dfs(i,path+[candidates[i]],cur_sum+candidates[i])
+            dfs(i+1,path,cur_sum)
         dfs(0,[],0)
         return res
