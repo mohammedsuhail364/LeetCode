@@ -925,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/mohammedsuhail364/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/mohammedsuhail364/LeetCode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/mohammedsuhail364/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/mohammedsuhail364/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/mohammedsuhail364/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/mohammedsuhail364/LeetCode/tree/master/0079-word-search) |
@@ -1196,6 +1197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/mohammedsuhail364/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/mohammedsuhail364/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/mohammedsuhail364/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/mohammedsuhail364/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mohammedsuhail364/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/mohammedsuhail364/LeetCode/tree/master/0089-gray-code) |
@@ -1472,6 +1474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/mohammedsuhail364/LeetCode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/mohammedsuhail364/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/mohammedsuhail364/LeetCode/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/mohammedsuhail364/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/mohammedsuhail364/LeetCode/tree/master/0682-baseball-game) |
@@ -1680,6 +1683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mohammedsuhail364/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/mohammedsuhail364/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/mohammedsuhail364/LeetCode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/mohammedsuhail364/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0090-subsets-ii) |
