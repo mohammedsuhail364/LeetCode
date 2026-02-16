@@ -1,9 +1,7 @@
 class Solution:
     def reverseBits(self, n: int) -> int:
-        tmp=['0']*32
-        val=bin(n)[2:]
-        x=0
-        for i in reversed(range(len(val))):
-            tmp[x]=val[i]
-            x+=1
-        return int(''.join(tmp),2)
+        val=bin(n)[2:][::-1]
+        c='0'*(32-len(val))
+        return int(val+c,2)
+        
+            
