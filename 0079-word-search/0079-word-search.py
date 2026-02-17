@@ -8,17 +8,18 @@ class Solution:
                 return True
             if r==ROWS or r<0 or c==COLS or c<0:
                 return False
-            if board[r][c]!=word[i] or visit[r][c]:
+            if board[r][c]!=word[i]:
                 return False
 
-            visit[r][c]=True
+            temp = board[r][c]
+            board[r][c] = "#"   # mark as visited
             res= (
             dfs(r+1,c,i+1) or 
             dfs(r-1,c,i+1) or 
             dfs(r,c+1,i+1) or 
             dfs(r,c-1,i+1)
             )
-            visit[r][c]=False
+            board[r][c]=temp
             return res
             
             
