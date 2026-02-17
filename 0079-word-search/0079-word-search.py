@@ -2,7 +2,15 @@ class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
         ROWS=len(board)
         COLS=len(board[0])
-        visit=[[False]*COLS for r in range(ROWS)]
+        board_count=Counter()
+        for row in board:
+            board_count+=Counter(row)
+        word_count=Counter(word)
+        for ch in word:
+            if word_count[ch]>board_count[ch]:
+                return False
+        if word_count[word[0]]>word_count[word[-1]]:
+            word=word[::-1]
         def dfs(r,c,i):
             if i>=len(word):
                 return True
