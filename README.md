@@ -978,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/mohammedsuhail364/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0609-find-duplicate-file-in-system](https://github.com/mohammedsuhail364/LeetCode/tree/master/0609-find-duplicate-file-in-system) |
 | [0680-valid-palindrome-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/mohammedsuhail364/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/mohammedsuhail364/LeetCode/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/mohammedsuhail364/LeetCode/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
@@ -1612,6 +1613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/mohammedsuhail364/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/mohammedsuhail364/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mohammedsuhail364/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0763-partition-labels](https://github.com/mohammedsuhail364/LeetCode/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/mohammedsuhail364/LeetCode/tree/master/0768-partition-labels) |
