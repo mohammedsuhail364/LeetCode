@@ -1238,6 +1238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/mohammedsuhail364/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/mohammedsuhail364/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0679-24-game](https://github.com/mohammedsuhail364/LeetCode/tree/master/0679-24-game) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mohammedsuhail364/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/mohammedsuhail364/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/mohammedsuhail364/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0804-rotated-digits](https://github.com/mohammedsuhail364/LeetCode/tree/master/0804-rotated-digits) |
@@ -1717,6 +1718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/mohammedsuhail364/LeetCode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/mohammedsuhail364/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mohammedsuhail364/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/mohammedsuhail364/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0980-find-the-shortest-superstring](https://github.com/mohammedsuhail364/LeetCode/tree/master/0980-find-the-shortest-superstring) |
