@@ -1720,6 +1720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/mohammedsuhail364/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mohammedsuhail364/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/mohammedsuhail364/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/mohammedsuhail364/LeetCode/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0980-find-the-shortest-superstring](https://github.com/mohammedsuhail364/LeetCode/tree/master/0980-find-the-shortest-superstring) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mohammedsuhail364/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
