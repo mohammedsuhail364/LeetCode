@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mohammedsuhail364/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohammedsuhail364/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohammedsuhail364/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mohammedsuhail364/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/mohammedsuhail364/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/mohammedsuhail364/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mohammedsuhail364/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1366,6 +1367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/mohammedsuhail364/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/mohammedsuhail364/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohammedsuhail364/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mohammedsuhail364/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mohammedsuhail364/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1552-magnetic-force-between-two-balls](https://github.com/mohammedsuhail364/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mohammedsuhail364/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -1732,6 +1734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0980-find-the-shortest-superstring](https://github.com/mohammedsuhail364/LeetCode/tree/master/0980-find-the-shortest-superstring) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mohammedsuhail364/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mohammedsuhail364/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mohammedsuhail364/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mohammedsuhail364/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mohammedsuhail364/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1864,6 +1867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/mohammedsuhail364/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/mohammedsuhail364/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mohammedsuhail364/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/mohammedsuhail364/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/mohammedsuhail364/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/mohammedsuhail364/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
