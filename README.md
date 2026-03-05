@@ -1037,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mohammedsuhail364/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/mohammedsuhail364/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mohammedsuhail364/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mohammedsuhail364/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mohammedsuhail364/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mohammedsuhail364/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
