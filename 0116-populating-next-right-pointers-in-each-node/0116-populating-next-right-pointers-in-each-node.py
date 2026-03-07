@@ -12,19 +12,14 @@ class Solution:
     def connect(self, root: 'Optional[Node]') -> 'Optional[Node]':
         if not root:
             return None
-        q=deque([root])
-        while q:
-            n=len(q)
-            level=[]
-            for _ in range(n):
-                node=q.popleft()
-                level.append(node)
-                if node.left:
-                    q.append(node.left)
-                if node.right:
-                    q.append(node.right)
-            for x in range(1,len(level)):
-                prev=level[x-1]
-                cur=level[x]
-                prev.next=cur
+        # it was perfect binary tree so if we access a node then it has a definite left and right 
+        cur=root
+        while cur and cur.left:
+            head=cur
+            while head:
+                head.left.next=head.right
+                if head.next:
+                    head.right.next=head.next.left
+                head=head.next
+            cur=cur.left
         return root
