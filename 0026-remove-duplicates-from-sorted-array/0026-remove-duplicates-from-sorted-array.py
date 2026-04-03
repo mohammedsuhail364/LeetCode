@@ -3,8 +3,8 @@ class Solution:
         l=0
         r=0
         while r<len(nums):
-            nums[l]=nums[r] # set the unique value to left
+            nums[l]=nums[r]
             while r<len(nums) and nums[l]==nums[r]:
-                r+=1 # skip the duplicates
-            l+=1 # move the left pointer because we find the right (next unique value)
+                r+=1
+            l+=1
         return l
