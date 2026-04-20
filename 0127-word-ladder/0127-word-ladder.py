@@ -1,28 +1,27 @@
 class Solution:
     def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
-        # want to revisit
-        if endWord not in wordList:
-            return 0
-        visit=set()
         adj=defaultdict(list)
+        # this was a tricky problem like if we have a work like hot we can make it *ot,h*t,ho* then we can search to the similiar kind of words 
         wordList.append(beginWord)
         for word in wordList:
             for j in range(len(word)):
                 pattern=word[:j]+"*"+word[j+1:]
                 adj[pattern].append(word)
-        q=deque([beginWord])
-        visit.add(beginWord)
+        
+        q=deque([(beginWord)])
+        visited=set()
         res=1
+        visited.add(beginWord)
         while q:
             for i in range(len(q)):
-                node=q.popleft()
-                if node==endWord:
+                word=q.popleft()
+                if word==endWord:
                     return res
-                for j in range(len(node)):
-                    pattern=node[:j]+"*"+node[j+1:]
+                for j in range(len(word)):
+                    pattern=word[:j]+"*"+word[j+1:]
                     for nei in adj[pattern]:
-                        if nei not in visit:
+                        if nei not in visited:
                             q.append(nei)
-                            visit.add(nei)
+                            visited.add(nei)
             res+=1
         return 0
