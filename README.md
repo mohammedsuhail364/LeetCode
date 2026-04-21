@@ -676,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/mohammedsuhail364/LeetCode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/mohammedsuhail364/LeetCode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/mohammedsuhail364/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0797-all-paths-from-source-to-target](https://github.com/mohammedsuhail364/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mohammedsuhail364/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/mohammedsuhail364/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/mohammedsuhail364/LeetCode/tree/master/0854-making-a-large-island) |
@@ -927,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/mohammedsuhail364/LeetCode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/mohammedsuhail364/LeetCode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/mohammedsuhail364/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0797-all-paths-from-source-to-target](https://github.com/mohammedsuhail364/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mohammedsuhail364/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/mohammedsuhail364/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/mohammedsuhail364/LeetCode/tree/master/0854-making-a-large-island) |
@@ -1273,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/mohammedsuhail364/LeetCode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/mohammedsuhail364/LeetCode/tree/master/0679-24-game) |
+| [0797-all-paths-from-source-to-target](https://github.com/mohammedsuhail364/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/mohammedsuhail364/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mohammedsuhail364/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mohammedsuhail364/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -2372,4 +2375,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/mohammedsuhail364/LeetCode/tree/master/0133-clone-graph) |
+| [0797-all-paths-from-source-to-target](https://github.com/mohammedsuhail364/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
