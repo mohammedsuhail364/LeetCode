@@ -1,22 +1,25 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
+        adj=defaultdict(list)
+        for u,v in prerequisites:
+            adj[u].append(v)
+        path=set() # current path
+        safe=set() # already check , there is no cycles with this nodes
         def dfs(i):
-            if i in visit:
+            if i in path:
                 return False
-            if adj[i]==[]:
+            if i in safe:
                 return True
-            visit.add(i)
+            path.add(i)
             for nei in adj[i]:
-                if not dfs(nei):
+                if not dfs(nei): 
                     return False
-            visit.remove(i)
-            adj[i]=[]
+            path.remove(i)
+            safe.add(i)
             return True
-        adj={i:[] for i in range(numCourses)}
-        visit=set()
-        for i,j in prerequisites:
-            adj[i].append(j)
+
         for i in range(numCourses):
             if not dfs(i):
                 return False
         return True
+        
