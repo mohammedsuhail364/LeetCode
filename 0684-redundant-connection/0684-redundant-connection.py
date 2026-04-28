@@ -5,16 +5,16 @@ class Solution:
                 return True
             visit.add(node)
             for nei in adj[node]:
-                if nei==parent:
+                if nei == parent:
                     continue
                 if dfs(nei,node,visit):
                     return True
             return False
         adj=defaultdict(list)
-        for src,dst in edges:
-            adj[src].append(dst)
-            adj[dst].append(src)
+        for u,v in edges:
+            adj[u].append(v)
+            adj[v].append(u)
             visit=set()
-            if dfs(src,-1,visit):
-                return [src,dst]
-        return []
+            if dfs(u,-1,visit):
+                return [u,v]
+        
