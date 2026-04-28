@@ -2370,6 +2370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/mohammedsuhail364/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/mohammedsuhail364/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mohammedsuhail364/LeetCode/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/mohammedsuhail364/LeetCode/tree/master/0684-redundant-connection) |
 ## Sweep Line
 |  |
 | ------- |
@@ -2380,5 +2381,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/mohammedsuhail364/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/mohammedsuhail364/LeetCode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/mohammedsuhail364/LeetCode/tree/master/0310-minimum-height-trees) |
+| [0684-redundant-connection](https://github.com/mohammedsuhail364/LeetCode/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/mohammedsuhail364/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
