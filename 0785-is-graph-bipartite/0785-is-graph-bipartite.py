@@ -16,7 +16,7 @@ class Solution:
         def union(x,y):
             px,py=find(x),find(y)
             if px==py:return
-            if rank[px]>rank[py]:
+            if rank[px]<rank[py]:
                 px,py=py,px
             parent[py]=px
             rank[px]+=rank[py]
