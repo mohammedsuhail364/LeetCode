@@ -1208,6 +1208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0740-delete-and-earn](https://github.com/mohammedsuhail364/LeetCode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/mohammedsuhail364/LeetCode/tree/master/0788-rotated-digits) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mohammedsuhail364/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0804-rotated-digits](https://github.com/mohammedsuhail364/LeetCode/tree/master/0804-rotated-digits) |
 | [0826-soup-servings](https://github.com/mohammedsuhail364/LeetCode/tree/master/0826-soup-servings) |
@@ -1337,6 +1338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/mohammedsuhail364/LeetCode/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mohammedsuhail364/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/mohammedsuhail364/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/mohammedsuhail364/LeetCode/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/mohammedsuhail364/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0804-rotated-digits](https://github.com/mohammedsuhail364/LeetCode/tree/master/0804-rotated-digits) |
 | [0826-soup-servings](https://github.com/mohammedsuhail364/LeetCode/tree/master/0826-soup-servings) |
