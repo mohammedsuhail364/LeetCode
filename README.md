@@ -1062,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/mohammedsuhail364/LeetCode/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/mohammedsuhail364/LeetCode/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/0793-swap-adjacent-in-lr-string) |
+| [0796-rotate-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/0796-rotate-string) |
 | [0827-expressive-words](https://github.com/mohammedsuhail364/LeetCode/tree/master/0827-expressive-words) |
 | [0844-backspace-string-compare](https://github.com/mohammedsuhail364/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0862-find-and-replace-in-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/0862-find-and-replace-in-string) |
@@ -1879,6 +1880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/mohammedsuhail364/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/0796-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/mohammedsuhail364/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
