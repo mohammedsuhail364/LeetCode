@@ -1,6 +1,7 @@
 class Solution:
     def equationsPossible(self, equations: List[str]) -> bool:
         parent={}
+        rank=[1]*26
         def find(x):
             while parent[x]!=x:
                 parent[x]=parent[parent[x]]
@@ -11,7 +12,11 @@ class Solution:
             px,py=find(x),find(y)
             if px==py:
                 return 
+            if rank[ord(py)-ord('a')]>rank[ord(px)-ord('a')]:
+                px,py=py,px
+            
             parent[py]=px
+            rank[ord(px)-ord('a')]+=rank[ord(py)-ord('a')]
         for a,b,c,d in equations:
             if b+c=="==":
                 if a not in parent: parent[a]=a
