@@ -955,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mohammedsuhail364/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/mohammedsuhail364/LeetCode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mohammedsuhail364/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1192-critical-connections-in-a-network](https://github.com/mohammedsuhail364/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mohammedsuhail364/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mohammedsuhail364/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -2426,4 +2427,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/mohammedsuhail364/LeetCode/tree/master/0886-possible-bipartition) |
 | [0990-satisfiability-of-equality-equations](https://github.com/mohammedsuhail364/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/mohammedsuhail364/LeetCode/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1192-critical-connections-in-a-network](https://github.com/mohammedsuhail364/LeetCode/tree/master/1192-critical-connections-in-a-network) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/mohammedsuhail364/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
