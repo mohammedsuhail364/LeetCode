@@ -1,7 +1,10 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
-        dp=[0]*(n+2)
-        dp[n]=1
-        for step in range(n-1,-1,-1):
-            dp[step]=dp[step+1]+dp[step+2]
-        return dp[0]
+        # fibanocci number
+        first=0
+        second=1
+        for i in range(n):
+            third=first+second
+            first=second
+            second=third
+        return third
