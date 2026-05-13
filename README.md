@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/mohammedsuhail364/LeetCode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/mohammedsuhail364/LeetCode/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mohammedsuhail364/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mohammedsuhail364/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0778-swim-in-rising-water](https://github.com/mohammedsuhail364/LeetCode/tree/master/0778-swim-in-rising-water) |
@@ -1221,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/mohammedsuhail364/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0740-delete-and-earn](https://github.com/mohammedsuhail364/LeetCode/tree/master/0740-delete-and-earn) |
+| [0746-min-cost-climbing-stairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/mohammedsuhail364/LeetCode/tree/master/0788-rotated-digits) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mohammedsuhail364/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
