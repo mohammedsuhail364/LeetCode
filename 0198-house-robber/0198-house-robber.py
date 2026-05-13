@@ -1,14 +1,10 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        cache={}
-
-        def dfs(i):
-            if i in cache:
-                return cache[i]
-            if i>=len(nums):
-                return 0
-            skip=dfs(i+1)
-            include=nums[i]+dfs(i+2)
-            cache[i]= max(skip , include)
-            return cache[i]
-        return dfs(0)
+        n=len(nums)
+        dp=[0]*(n+2)
+        dp[n-1]=nums[n-1]
+        for i in range(n-1,-1,-1):
+            skip=dp[i+1]
+            include=nums[i]+dp[i+2]
+            dp[i]=max(skip,include)
+        return dp[0]
