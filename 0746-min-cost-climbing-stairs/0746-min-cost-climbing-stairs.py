@@ -1,13 +1,9 @@
 class Solution:
     def minCostClimbingStairs(self, cost: List[int]) -> int:
-        cache={}
-        def dfs(i):
-            if i in cache:
-                return cache[i]
-            if i>=len(cost):
-                return 0
-            one_step=cost[i]+dfs(i+1)
-            two_step=cost[i]+dfs(i+2)
-            cache[i] = min(one_step,two_step)
-            return cache[i]
-        return min(dfs(0),dfs(1))
+        n=len(cost)
+        dp=[0]*(n+2)
+        for i in range(n-1,-1,-1):
+            one_step=dp[i+1]
+            two_step=dp[i+2]
+            dp[i]=cost[i]+min(one_step,two_step)
+        return min(dp[0],dp[1])
