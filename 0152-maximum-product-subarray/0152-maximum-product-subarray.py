@@ -12,5 +12,5 @@ class Solution:
                 suf=1
             pre*=nums[i]
             suf*=nums[n-i-1]
-            res=max(res,max(pre,suf))
+            res=max(res,pre,suf)
         return res
