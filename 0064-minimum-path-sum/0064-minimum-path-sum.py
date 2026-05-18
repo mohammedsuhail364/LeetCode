@@ -1,13 +1,20 @@
 class Solution:
     def minPathSum(self, grid: List[List[int]]) -> int:
-        rows=len(grid)
-        cols=len(grid[0])
-        dp=[[float('inf')]*(cols+1) for _ in range(rows+1)]
-        dp[rows-1][cols-1]=grid[rows-1][cols-1] # base case
-        for r in range(rows-1,-1,-1):
-            for c in range(cols-1,-1,-1):
-                if r==rows-1 and c==cols-1:
-                    continue
-                dp[r][c]=grid[r][c]+min(dp[r+1][c],dp[r][c+1])
-        return dp[0][0]
-        
+        ROWS=len(grid)
+        COLS=len(grid[0])
+        def bfs(row,col):
+            min_heap=[(grid[row][col],row,col)]
+            visit=set()
+            visit.add((row,col))
+            cur=0
+            while min_heap:
+                cost,r,c=heappop(min_heap)
+                if (r,c)==(ROWS-1,COLS-1):
+                    return cost
+                for nr,nc in [(r+1,c),(r,c+1)]:
+                    if 0<=nr<ROWS and 0<=nc<COLS and (nr,nc) not in visit:
+                        heappush(min_heap,(grid[nr][nc]+cost,nr,nc))
+                        visit.add((nr,nc))
+
+        return bfs(0,0)
+
