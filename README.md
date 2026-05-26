@@ -1050,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mohammedsuhail364/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/mohammedsuhail364/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/mohammedsuhail364/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/mohammedsuhail364/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -1215,6 +1216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/mohammedsuhail364/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/mohammedsuhail364/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/mohammedsuhail364/LeetCode/tree/master/0198-house-robber) |
