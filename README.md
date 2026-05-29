@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/mohammedsuhail364/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/mohammedsuhail364/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -1437,6 +1438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/mohammedsuhail364/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/mohammedsuhail364/LeetCode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/3462-vowels-game-in-a-string) |
