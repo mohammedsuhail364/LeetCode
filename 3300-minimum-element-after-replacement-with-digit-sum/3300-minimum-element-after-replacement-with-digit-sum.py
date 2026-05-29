@@ -6,6 +6,7 @@ class Solution:
                 res+=n%10
                 n=n//10
             return res
+        res=inf
         for n in range(len(nums)):
-            nums[n]=sum_of_digits(nums[n])
-        return min(nums)
+            res=min(res,sum_of_digits(nums[n]))
+        return res
