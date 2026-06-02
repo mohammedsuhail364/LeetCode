@@ -1,11 +1,19 @@
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
-        # refer neetcode
-        dp=[float('inf')]*(amount+1)
-        dp[0]=0 # base case because zero we can make with zero coins
-        for a in range(1,amount+1):
+        cache={}
+        def dfs(rem):
+            if rem in cache:
+                return cache[rem]
+            if rem==0:
+                return 0
+            if rem<0:
+                return inf
+            cache[rem]=inf
             for c in coins:
-                if (a-c)>=0:
-                    dp[a]=min(dp[a],1+dp[a-c])
-        return dp[amount] if dp[amount]!=float('inf') else -1
-        
+                cache[rem]=min(cache[rem],1+dfs(rem-c))
+            return cache[rem]
+            
+        res= dfs(amount)
+        if res!=inf:
+            return res
+        return -1
