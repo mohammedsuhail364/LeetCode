@@ -3,14 +3,15 @@ class Solution:
         total=sum(nums)
         if total%2!=0:
             return False
-        memo={}
-        def dfs(i,cur_sum):
-            if (i,cur_sum) in memo:
-                return memo[i,cur_sum]
-            if i>=len(nums) or cur_sum>total-cur_sum:
+        
+        cache={}
+        def dfs(i,cur):
+            if (i,cur) in cache:
+                return cache[i,cur]
+            if i>=len(nums) or cur>total-cur:
                 return False
-            if cur_sum==total-cur_sum:
+            if cur==total-cur:
                 return True
-            memo[i,cur_sum]= dfs(i+1,cur_sum) or dfs(i+1,cur_sum+nums[i])
-            return memo[i,cur_sum]
+            cache[i,cur] = dfs(i+1,cur) or dfs(i+1,cur+nums[i]) 
+            return cache[i,cur]
         return dfs(0,0)
