@@ -1,19 +1,21 @@
 class Solution:
     def minCut(self, s: str) -> int:
-        # refer striver
-        cache={}
-        def dfs(i):
-            if i in cache:
-                return cache[i]
-            if i>=len(s):
-                return 0
-            cache[i]=inf
+        # this question basically find the minimum cuts
+        # what i m doing in this question is find the minimum partiton of the palindrome word and -1 to the res because we need cuts
+        # when convert from the memo -> Tabulation follow these steps
+        n=len(s)
+        # identify the states dfs(i)->dp[i]
+        dp=[0]*(n+1)
+        # identify the base case if i>=len(s): return 0
+        # already we set as 0
+        # iterate from right to left
+        for i in range(n-1,-1,-1):
             temp=""
-            for j in range(i,len(s)):
+            res=inf
+            for j in range(i,n):
                 temp+=s[j]
                 if temp==temp[::-1]:
-                    cost=1+dfs(j+1)
-                    cache[i]=min(cost,cache[i])
-            return cache[i]
-
-        return dfs(0)-1
+                    cost=1+dp[j+1]
+                    res=min(res,cost)
+                dp[i]=res
+        return dp[0]-1
