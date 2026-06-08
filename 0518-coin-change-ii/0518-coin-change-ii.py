@@ -1,15 +1,17 @@
 class Solution:
     def change(self, amount: int, coins: List[int]) -> int:
-        memo={}
-        def dfs(i,cur_sum):
-            if (i,cur_sum) in memo:
-                return memo[(i,cur_sum)]
-            if cur_sum==amount:
-                return 1
-            if i>=len(coins) or cur_sum>amount:
+        cache={}
+        def dfs(i,cur):
+            if (i,cur) in cache:
+                return cache[i,cur]
+            if i>=len(coins) or cur>amount:
                 return 0
-            skip=dfs(i+1,cur_sum)
-            include=dfs(i,cur_sum+coins[i])
-            memo[(i,cur_sum)]= skip+include
-            return memo[(i,cur_sum)]
+            if cur==amount:
+                return 1
+            skip=dfs(i+1,cur)
+            include=dfs(i,cur+coins[i])
+            cache[i,cur]=skip+include
+            return cache[i,cur]
+
         return dfs(0,0)
+        
