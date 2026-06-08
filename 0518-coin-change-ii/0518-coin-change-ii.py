@@ -8,7 +8,7 @@ class Solution:
                     dp[i][cur]=1
                     continue
                 skip=dp[i+1][cur]
-                include=dp[i][cur+coins[i] if cur+coins[i]<=amount else 0]
+                include=dp[i][cur+coins[i]] if cur+coins[i]<=amount else 0
                 dp[i][cur]=skip + include
         return dp[0][0]
         
