@@ -1,19 +1,18 @@
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
         cache={}
-        def dfs(rem):
-            if rem in cache:
-                return cache[rem]
-            if rem==0:
-                return 0
-            if rem<0:
+        def dfs(cur):
+            if cur in cache:
+                return cache[cur]
+            if cur>amount:
                 return inf
-            cache[rem]=inf
+            if cur==amount:
+                return 0
+            cache[cur]=inf
             for c in coins:
-                cache[rem]=min(cache[rem],1+dfs(rem-c))
-            return cache[rem]
-            
-        res= dfs(amount)
-        if res!=inf:
-            return res
-        return -1
+                cache[cur]=min(cache[cur],1+dfs(cur+c))
+            return cache[cur]
+        res = dfs(0)
+        if res==inf:
+            return -1
+        return res
