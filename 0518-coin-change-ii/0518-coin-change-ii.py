@@ -1,17 +1,14 @@
 class Solution:
     def change(self, amount: int, coins: List[int]) -> int:
-        cache={}
-        def dfs(i,cur):
-            if (i,cur) in cache:
-                return cache[i,cur]
-            if i>=len(coins) or cur>amount:
-                return 0
-            if cur==amount:
-                return 1
-            skip=dfs(i+1,cur)
-            include=dfs(i,cur+coins[i])
-            cache[i,cur]=skip+include
-            return cache[i,cur]
-
-        return dfs(0,0)
+        n=len(coins)
+        dp=[[0]*(amount+1) for _ in range(n+1)]
+        for i in range(n-1,-1,-1):
+            for cur in range(amount,-1,-1):
+                if cur==amount:
+                    dp[i][cur]=1
+                    continue
+                skip=dp[i+1][cur]
+                include=dp[i][cur+coins[i] if cur+coins[i]<=amount else 0]
+                dp[i][cur]=skip + include
+        return dp[0][0]
         
