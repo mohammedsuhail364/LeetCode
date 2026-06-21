@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mohammedsuhail364/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1813-maximum-erasure-value](https://github.com/mohammedsuhail364/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/mohammedsuhail364/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1833-maximum-ice-cream-bars](https://github.com/mohammedsuhail364/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/mohammedsuhail364/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mohammedsuhail364/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/mohammedsuhail364/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -1526,6 +1527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/mohammedsuhail364/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/mohammedsuhail364/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1752-arithmetic-subarrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/1752-arithmetic-subarrays) |
+| [1833-maximum-ice-cream-bars](https://github.com/mohammedsuhail364/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mohammedsuhail364/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2126-destroying-asteroids](https://github.com/mohammedsuhail364/LeetCode/tree/master/2126-destroying-asteroids) |
@@ -1861,6 +1863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mohammedsuhail364/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mohammedsuhail364/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mohammedsuhail364/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/mohammedsuhail364/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/mohammedsuhail364/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/mohammedsuhail364/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mohammedsuhail364/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -2065,6 +2068,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/mohammedsuhail364/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/mohammedsuhail364/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/mohammedsuhail364/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mohammedsuhail364/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mohammedsuhail364/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mohammedsuhail364/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
