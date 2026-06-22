@@ -1,15 +1,14 @@
 class Solution:
     def totalFruit(self, fruits: List[int]) -> int:
+        seen=defaultdict(int)
         l=0
-        freq=defaultdict(int)
         res=0
         for r in range(len(fruits)):
-            freq[fruits[r]]+=1
-            while len(freq)>2:
-                freq[fruits[l]]-=1
-                if freq[fruits[l]]==0:
-                    del freq[fruits[l]]
+            seen[fruits[r]]+=1
+            while len(seen)>2:
+                seen[fruits[l]]-=1
+                if seen[fruits[l]]==0:
+                    del seen[fruits[l]]
                 l+=1
-            length=(r-l+1)
-            res=max(res,length)
+            res=max(res,r-l+1)
         return res
