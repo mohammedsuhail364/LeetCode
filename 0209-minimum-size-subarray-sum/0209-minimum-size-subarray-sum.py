@@ -1,5 +1,9 @@
+from math import inf
+from typing import List
 class Solution:
     def minSubArrayLen(self, target: int, nums: List[int]) -> int:
+        if sum(nums)<target:
+            return 0
         l=0
         cur_sum=0
         res=inf
@@ -9,4 +13,4 @@ class Solution:
                 res=min(res,r-l+1)
                 cur_sum-=nums[l]
                 l+=1
-        return res if res!=inf else 0
+        return res
