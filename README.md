@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mohammedsuhail364/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/mohammedsuhail364/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mohammedsuhail364/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1552-magnetic-force-between-two-balls](https://github.com/mohammedsuhail364/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/mohammedsuhail364/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -1285,6 +1286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/mohammedsuhail364/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mohammedsuhail364/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mohammedsuhail364/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/mohammedsuhail364/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mohammedsuhail364/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/mohammedsuhail364/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1523,6 +1525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohammedsuhail364/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mohammedsuhail364/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mohammedsuhail364/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/mohammedsuhail364/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/mohammedsuhail364/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mohammedsuhail364/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/mohammedsuhail364/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
