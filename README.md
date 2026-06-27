@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/mohammedsuhail364/LeetCode/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/mohammedsuhail364/LeetCode/tree/master/0682-baseball-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/mohammedsuhail364/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/mohammedsuhail364/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/mohammedsuhail364/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/mohammedsuhail364/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -1269,6 +1270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/mohammedsuhail364/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mohammedsuhail364/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/mohammedsuhail364/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0740-delete-and-earn](https://github.com/mohammedsuhail364/LeetCode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -1355,6 +1357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/mohammedsuhail364/LeetCode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/mohammedsuhail364/LeetCode/tree/master/0679-24-game) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/mohammedsuhail364/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/mohammedsuhail364/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/mohammedsuhail364/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mohammedsuhail364/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1928,6 +1931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/mohammedsuhail364/LeetCode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/mohammedsuhail364/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/mohammedsuhail364/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mohammedsuhail364/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/mohammedsuhail364/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/mohammedsuhail364/LeetCode/tree/master/0868-binary-gap) |
@@ -2414,6 +2418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/mohammedsuhail364/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohammedsuhail364/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0509-fibonacci-number) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/mohammedsuhail364/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1013-fibonacci-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/1013-fibonacci-number) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mohammedsuhail364/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/mohammedsuhail364/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -2483,6 +2488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/mohammedsuhail364/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0980-find-the-shortest-superstring](https://github.com/mohammedsuhail364/LeetCode/tree/master/0980-find-the-shortest-superstring) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/mohammedsuhail364/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mohammedsuhail364/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
