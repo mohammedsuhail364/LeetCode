@@ -1,17 +1,19 @@
 class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:
-        p_count=Counter(p)
-        s_count=defaultdict(int)
+        _p=[0]*26
+        _s=[0]*26
+        for i in p:
+            idx=ord(i)-ord('a')
+            _p[idx]+=1
         l=0
-        
         res=[]
         for r in range(len(s)):
-            s_count[s[r]]+=1
             if (r-l+1)>len(p):
-                s_count[s[l]]-=1
-                if s_count[s[l]]==0:
-                    del s_count[s[l]]
+                idx=ord(s[l])-ord('a')
+                _s[idx]-=1
                 l+=1
-            if p_count==s_count:
+            idx=ord(s[r])-ord('a')
+            _s[idx]+=1
+            if (r-l+1)==len(p) and _p==_s:
                 res.append(l)
         return res
