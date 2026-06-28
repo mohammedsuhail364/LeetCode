@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/mohammedsuhail364/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1861-rotating-the-box](https://github.com/mohammedsuhail364/LeetCode/tree/master/1861-rotating-the-box) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/mohammedsuhail364/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/mohammedsuhail364/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1876-map-of-highest-peak](https://github.com/mohammedsuhail364/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mohammedsuhail364/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -1365,6 +1366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mohammedsuhail364/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mohammedsuhail364/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/mohammedsuhail364/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/mohammedsuhail364/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mohammedsuhail364/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -1437,6 +1439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mohammedsuhail364/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1761-count-sorted-vowel-strings](https://github.com/mohammedsuhail364/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/mohammedsuhail364/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/mohammedsuhail364/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/mohammedsuhail364/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/mohammedsuhail364/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mohammedsuhail364/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1945,6 +1948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/mohammedsuhail364/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mohammedsuhail364/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mohammedsuhail364/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/mohammedsuhail364/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mohammedsuhail364/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mohammedsuhail364/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mohammedsuhail364/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -2377,6 +2381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/mohammedsuhail364/LeetCode/tree/master/0062-unique-paths) |
 | [1761-count-sorted-vowel-strings](https://github.com/mohammedsuhail364/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/mohammedsuhail364/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mohammedsuhail364/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -2394,6 +2399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/mohammedsuhail364/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/mohammedsuhail364/LeetCode/tree/master/1656-count-good-triplets) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mohammedsuhail364/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/mohammedsuhail364/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/mohammedsuhail364/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mohammedsuhail364/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/mohammedsuhail364/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
