@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/mohammedsuhail364/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1876-map-of-highest-peak](https://github.com/mohammedsuhail364/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mohammedsuhail364/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mohammedsuhail364/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mohammedsuhail364/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/mohammedsuhail364/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -1309,6 +1310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1761-count-sorted-vowel-strings](https://github.com/mohammedsuhail364/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/mohammedsuhail364/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/mohammedsuhail364/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/mohammedsuhail364/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/mohammedsuhail364/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -1949,6 +1951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mohammedsuhail364/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mohammedsuhail364/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mohammedsuhail364/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mohammedsuhail364/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mohammedsuhail364/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mohammedsuhail364/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -2500,6 +2503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/mohammedsuhail364/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/mohammedsuhail364/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0980-find-the-shortest-superstring](https://github.com/mohammedsuhail364/LeetCode/tree/master/0980-find-the-shortest-superstring) |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/mohammedsuhail364/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mohammedsuhail364/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Line Sweep
