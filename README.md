@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/mohammedsuhail364/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2792-neighboring-bitwise-xor](https://github.com/mohammedsuhail364/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/mohammedsuhail364/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mohammedsuhail364/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/mohammedsuhail364/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -755,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/mohammedsuhail364/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/mohammedsuhail364/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/mohammedsuhail364/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/mohammedsuhail364/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -1668,6 +1670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/mohammedsuhail364/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/mohammedsuhail364/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/mohammedsuhail364/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -2049,6 +2052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mohammedsuhail364/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/mohammedsuhail364/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/mohammedsuhail364/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/mohammedsuhail364/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/mohammedsuhail364/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -2254,6 +2258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2536-increment-submatrices-by-one](https://github.com/mohammedsuhail364/LeetCode/tree/master/2536-increment-submatrices-by-one) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/mohammedsuhail364/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/mohammedsuhail364/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/mohammedsuhail364/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/mohammedsuhail364/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/mohammedsuhail364/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -2526,6 +2531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/mohammedsuhail364/LeetCode/tree/master/0886-possible-bipartition) |
 | [0990-satisfiability-of-equality-equations](https://github.com/mohammedsuhail364/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1631-path-with-minimum-effort](https://github.com/mohammedsuhail364/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/mohammedsuhail364/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sweep Line
 |  |
 | ------- |
