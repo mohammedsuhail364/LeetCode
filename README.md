@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/mohammedsuhail364/LeetCode/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/mohammedsuhail364/LeetCode/tree/master/0682-baseball-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0695-max-area-of-island](https://github.com/mohammedsuhail364/LeetCode/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/mohammedsuhail364/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/mohammedsuhail364/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/mohammedsuhail364/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -717,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/mohammedsuhail364/LeetCode/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/mohammedsuhail364/LeetCode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/mohammedsuhail364/LeetCode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/mohammedsuhail364/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/mohammedsuhail364/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/mohammedsuhail364/LeetCode/tree/master/0743-network-delay-time) |
@@ -985,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/mohammedsuhail364/LeetCode/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/mohammedsuhail364/LeetCode/tree/master/0687-longest-univalue-path) |
+| [0695-max-area-of-island](https://github.com/mohammedsuhail364/LeetCode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/mohammedsuhail364/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/mohammedsuhail364/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/mohammedsuhail364/LeetCode/tree/master/0743-network-delay-time) |
@@ -2231,6 +2234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/mohammedsuhail364/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/mohammedsuhail364/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/mohammedsuhail364/LeetCode/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/mohammedsuhail364/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/mohammedsuhail364/LeetCode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/mohammedsuhail364/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0794-swim-in-rising-water](https://github.com/mohammedsuhail364/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -2529,6 +2533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/mohammedsuhail364/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mohammedsuhail364/LeetCode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/mohammedsuhail364/LeetCode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/mohammedsuhail364/LeetCode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/mohammedsuhail364/LeetCode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/mohammedsuhail364/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/mohammedsuhail364/LeetCode/tree/master/0785-is-graph-bipartite) |
