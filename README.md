@@ -753,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/mohammedsuhail364/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mohammedsuhail364/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1876-map-of-highest-peak](https://github.com/mohammedsuhail364/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mohammedsuhail364/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/mohammedsuhail364/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/mohammedsuhail364/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1021,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/mohammedsuhail364/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/mohammedsuhail364/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mohammedsuhail364/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/mohammedsuhail364/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/mohammedsuhail364/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -2540,6 +2542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/mohammedsuhail364/LeetCode/tree/master/0886-possible-bipartition) |
 | [0990-satisfiability-of-equality-equations](https://github.com/mohammedsuhail364/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1631-path-with-minimum-effort](https://github.com/mohammedsuhail364/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mohammedsuhail364/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohammedsuhail364/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sweep Line
 |  |
@@ -2560,6 +2563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/mohammedsuhail364/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/mohammedsuhail364/LeetCode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1192-critical-connections-in-a-network](https://github.com/mohammedsuhail364/LeetCode/tree/master/1192-critical-connections-in-a-network) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mohammedsuhail364/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Biconnected Component
 |  |
 | ------- |
