@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/mohammedsuhail364/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/mohammedsuhail364/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1293-three-consecutive-odds](https://github.com/mohammedsuhail364/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1301-number-of-paths-with-max-score](https://github.com/mohammedsuhail364/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/mohammedsuhail364/LeetCode/tree/master/1306-jump-game-iii) |
 | [1314-matrix-block-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/1314-matrix-block-sum) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/mohammedsuhail364/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -1310,6 +1311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/mohammedsuhail364/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/mohammedsuhail364/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mohammedsuhail364/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1301-number-of-paths-with-max-score](https://github.com/mohammedsuhail364/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mohammedsuhail364/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/mohammedsuhail364/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mohammedsuhail364/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -2248,6 +2250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/mohammedsuhail364/LeetCode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mohammedsuhail364/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/mohammedsuhail364/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
+| [1301-number-of-paths-with-max-score](https://github.com/mohammedsuhail364/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1314-matrix-block-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/1314-matrix-block-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohammedsuhail364/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/mohammedsuhail364/LeetCode/tree/master/1396-count-servers-that-communicate) |
