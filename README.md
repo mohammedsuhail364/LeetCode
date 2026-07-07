@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1253-sort-the-matrix-diagonally](https://github.com/mohammedsuhail364/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mohammedsuhail364/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/mohammedsuhail364/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1288-remove-covered-intervals](https://github.com/mohammedsuhail364/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1293-three-consecutive-odds](https://github.com/mohammedsuhail364/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1301-number-of-paths-with-max-score](https://github.com/mohammedsuhail364/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/mohammedsuhail364/LeetCode/tree/master/1306-jump-game-iii) |
@@ -1555,6 +1556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1253-sort-the-matrix-diagonally](https://github.com/mohammedsuhail364/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mohammedsuhail364/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/mohammedsuhail364/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1288-remove-covered-intervals](https://github.com/mohammedsuhail364/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohammedsuhail364/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mohammedsuhail364/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mohammedsuhail364/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
