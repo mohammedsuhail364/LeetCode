@@ -1,12 +1,15 @@
 class Solution:
     def sequentialDigits(self, low: int, high: int) -> List[int]:
+        q=deque(range(1,10))
         res=[]
-        def dfs(cur,prev):
-            if (cur!="" and int(cur)>high) or prev>10:
-                return 
-            if cur!="" and low<=int(cur)<=high:
-                res.append(int(cur))
-            dfs(cur+str(prev),prev+1)
-        for i in range(1,10):
-            dfs("",i)
-        return sorted(res)
+        while q:
+            t=q.popleft()
+            if t<=high:
+                if t>=low:
+                    res.append(t)
+                last=t%10
+                if last<9:
+                    nxt=t*10+last+1
+                    if nxt <= high:
+                        q.append(nxt)
+        return res
