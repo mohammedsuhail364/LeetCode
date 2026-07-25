@@ -1,10 +1,11 @@
 class Solution:
     def maxProduct(self, n: int) -> int:
-        heap=[]
+        f,s=0,0
         while n:
-            t=n%10
-            heappush(heap,t)
-            if(len(heap))>2:
-                heappop(heap)
+            x=n%10
+            if x>f:
+                f,s=x,f
+            elif x>s:
+                s=x
             n=n//10
-        return heappop(heap)*heappop(heap)
+        return f*s
