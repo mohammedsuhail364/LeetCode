@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0962-maximum-width-ramp](https://github.com/mohammedsuhail364/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [0965-unique-email-addresses](https://github.com/mohammedsuhail364/LeetCode/tree/master/0965-unique-email-addresses) |
+| [0973-k-closest-points-to-origin](https://github.com/mohammedsuhail364/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohammedsuhail364/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-minimum-area-rectangle](https://github.com/mohammedsuhail364/LeetCode/tree/master/0976-minimum-area-rectangle) |
 | [0978-valid-mountain-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0978-valid-mountain-array) |
@@ -1443,6 +1444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/mohammedsuhail364/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/mohammedsuhail364/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0944-smallest-range-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/0944-smallest-range-i) |
+| [0973-k-closest-points-to-origin](https://github.com/mohammedsuhail364/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0976-minimum-area-rectangle](https://github.com/mohammedsuhail364/LeetCode/tree/master/0976-minimum-area-rectangle) |
 | [1003-minimum-area-rectangle-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/1003-minimum-area-rectangle-ii) |
 | [1013-fibonacci-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/1013-fibonacci-number) |
@@ -1560,6 +1562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/mohammedsuhail364/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0900-reordered-power-of-2](https://github.com/mohammedsuhail364/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/mohammedsuhail364/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0976-minimum-area-rectangle](https://github.com/mohammedsuhail364/LeetCode/tree/master/0976-minimum-area-rectangle) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1018-largest-perimeter-triangle](https://github.com/mohammedsuhail364/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -2045,6 +2048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mohammedsuhail364/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mohammedsuhail364/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/mohammedsuhail364/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [2280-count-good-triplets-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -2069,6 +2073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/mohammedsuhail364/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mohammedsuhail364/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/mohammedsuhail364/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/mohammedsuhail364/LeetCode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mohammedsuhail364/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -2489,6 +2494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/mohammedsuhail364/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/mohammedsuhail364/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -2528,6 +2534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/mohammedsuhail364/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0973-k-closest-points-to-origin](https://github.com/mohammedsuhail364/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0976-minimum-area-rectangle](https://github.com/mohammedsuhail364/LeetCode/tree/master/0976-minimum-area-rectangle) |
 | [1003-minimum-area-rectangle-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/1003-minimum-area-rectangle-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
