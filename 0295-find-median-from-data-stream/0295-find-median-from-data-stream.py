@@ -1,23 +1,19 @@
-import numpy as np
 class MedianFinder:
 
     def __init__(self):
-        self.li=[]
+        self.nums=[]
 
     def addNum(self, num: int) -> None:
-        self.li.append(num)
+        self.nums.append(num)
 
     def findMedian(self) -> float:
-        self.li.sort()
-        if len(self.li)%2==0:
-            mid=len(self.li)//2
-            value=(self.li[mid-1]+self.li[mid])/2
-            return value
-
+        self.nums.sort()
+        mid=len(self.nums)//2
+        if len(self.nums)%2:
+            return self.nums[mid]
         else:
-            mid=len(self.li)//2
-
-            return self.li[mid]
+            val=(self.nums[mid]+self.nums[mid-1])/2
+            return val
 
 
 
