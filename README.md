@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-find-and-replace-in-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/0862-find-and-replace-in-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mohammedsuhail364/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/mohammedsuhail364/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/mohammedsuhail364/LeetCode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/mohammedsuhail364/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mohammedsuhail364/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1309,6 +1310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/mohammedsuhail364/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0867-new-21-game](https://github.com/mohammedsuhail364/LeetCode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/mohammedsuhail364/LeetCode/tree/master/0868-push-dominoes) |
+| [0877-stone-game](https://github.com/mohammedsuhail364/LeetCode/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mohammedsuhail364/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/mohammedsuhail364/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1444,6 +1446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/mohammedsuhail364/LeetCode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/mohammedsuhail364/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/mohammedsuhail364/LeetCode/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/mohammedsuhail364/LeetCode/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/mohammedsuhail364/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0944-smallest-range-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/0944-smallest-range-i) |
 | [0973-k-closest-points-to-origin](https://github.com/mohammedsuhail364/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -2553,6 +2556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/mohammedsuhail364/LeetCode/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Iterator
 |  |
