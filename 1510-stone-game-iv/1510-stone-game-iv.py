@@ -1,11 +1,11 @@
 class Solution:
     def winnerSquareGame(self, n: int) -> bool:
-        @lru_cache(None)
-        def dfs(n):
+        dp=[False]*(n+1)
+        for i in range(1,n+1):
             sq=1
-            while sq*sq<=n:
-                if not dfs(n-sq*sq):
-                    return True
+            while sq*sq <=i:
+                if not dp[i-sq*sq]:
+                    dp[i]=True
+                    break
                 sq+=1
-            return False
-        return dfs(n)
+        return dp[n]
