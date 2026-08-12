@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/mohammedsuhail364/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohammedsuhail364/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohammedsuhail364/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mohammedsuhail364/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/mohammedsuhail364/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/mohammedsuhail364/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohammedsuhail364/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mohammedsuhail364/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -888,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2653-sliding-subarray-beauty](https://github.com/mohammedsuhail364/LeetCode/tree/master/2653-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohammedsuhail364/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/mohammedsuhail364/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohammedsuhail364/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
