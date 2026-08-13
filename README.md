@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/mohammedsuhail364/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/mohammedsuhail364/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mohammedsuhail364/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mohammedsuhail364/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mohammedsuhail364/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1213,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mohammedsuhail364/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/mohammedsuhail364/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/mohammedsuhail364/LeetCode/tree/master/2197-decode-the-slanted-ciphertext) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/mohammedsuhail364/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mohammedsuhail364/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/mohammedsuhail364/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/mohammedsuhail364/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -2446,6 +2448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-maximum-frequency-stack](https://github.com/mohammedsuhail364/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mohammedsuhail364/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2023-design-movie-rental-system](https://github.com/mohammedsuhail364/LeetCode/tree/master/2023-design-movie-rental-system) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/mohammedsuhail364/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/mohammedsuhail364/LeetCode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2280-count-good-triplets-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/mohammedsuhail364/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -2554,6 +2557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mohammedsuhail364/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0731-my-calendar-ii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/mohammedsuhail364/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2280-count-good-triplets-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
