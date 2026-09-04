@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohammedsuhail364/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3979-partition-array-into-k-distinct-groups](https://github.com/mohammedsuhail364/LeetCode/tree/master/3979-partition-array-into-k-distinct-groups) |
 ## Hash Table
 |  |
@@ -983,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/mohammedsuhail364/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/mohammedsuhail364/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3904-smallest-stable-index-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Depth-First Search
 |  |
 | ------- |
