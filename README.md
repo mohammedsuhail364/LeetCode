@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohammedsuhail364/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mohammedsuhail364/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/mohammedsuhail364/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1383-maximum-performance-of-a-team](https://github.com/mohammedsuhail364/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1396-count-servers-that-communicate](https://github.com/mohammedsuhail364/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mohammedsuhail364/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/mohammedsuhail364/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -1634,6 +1635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/mohammedsuhail364/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mohammedsuhail364/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mohammedsuhail364/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1383-maximum-performance-of-a-team](https://github.com/mohammedsuhail364/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mohammedsuhail364/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/mohammedsuhail364/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -1981,6 +1983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/mohammedsuhail364/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mohammedsuhail364/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/mohammedsuhail364/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1383-maximum-performance-of-a-team](https://github.com/mohammedsuhail364/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/mohammedsuhail364/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1448-maximum-69-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mohammedsuhail364/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -2156,6 +2159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/mohammedsuhail364/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/mohammedsuhail364/LeetCode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/mohammedsuhail364/LeetCode/tree/master/1094-car-pooling) |
+| [1383-maximum-performance-of-a-team](https://github.com/mohammedsuhail364/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mohammedsuhail364/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mohammedsuhail364/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
