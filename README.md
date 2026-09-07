@@ -1185,6 +1185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/mohammedsuhail364/LeetCode/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/mohammedsuhail364/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0939-valid-permutations-for-di-sequence](https://github.com/mohammedsuhail364/LeetCode/tree/master/0939-valid-permutations-for-di-sequence) |
+| [0940-distinct-subsequences-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0952-word-subsets](https://github.com/mohammedsuhail364/LeetCode/tree/master/0952-word-subsets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/mohammedsuhail364/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0965-unique-email-addresses](https://github.com/mohammedsuhail364/LeetCode/tree/master/0965-unique-email-addresses) |
@@ -1362,6 +1363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/mohammedsuhail364/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0939-valid-permutations-for-di-sequence](https://github.com/mohammedsuhail364/LeetCode/tree/master/0939-valid-permutations-for-di-sequence) |
+| [0940-distinct-subsequences-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0980-find-the-shortest-superstring](https://github.com/mohammedsuhail364/LeetCode/tree/master/0980-find-the-shortest-superstring) |
 | [1013-fibonacci-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/mohammedsuhail364/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
