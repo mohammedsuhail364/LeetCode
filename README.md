@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/mohammedsuhail364/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mohammedsuhail364/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/mohammedsuhail364/LeetCode/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/mohammedsuhail364/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/mohammedsuhail364/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohammedsuhail364/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -1327,6 +1328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/mohammedsuhail364/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mohammedsuhail364/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/mohammedsuhail364/LeetCode/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/mohammedsuhail364/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mohammedsuhail364/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0337-house-robber-iii) |
@@ -1483,6 +1485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/mohammedsuhail364/LeetCode/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/mohammedsuhail364/LeetCode/tree/master/0282-expression-add-operators) |
+| [0313-super-ugly-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/mohammedsuhail364/LeetCode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/mohammedsuhail364/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0507-perfect-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0507-perfect-number) |
