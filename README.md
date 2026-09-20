@@ -1286,6 +1286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/mohammedsuhail364/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/mohammedsuhail364/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3498-reverse-degree-of-a-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3606-coupon-code-validator](https://github.com/mohammedsuhail364/LeetCode/tree/master/3606-coupon-code-validator) |
@@ -1863,6 +1864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/3379-transformed-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mohammedsuhail364/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/mohammedsuhail364/LeetCode/tree/master/3447-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/mohammedsuhail364/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
