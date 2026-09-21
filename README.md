@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mohammedsuhail364/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3524-find-x-value-of-array-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mohammedsuhail364/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/mohammedsuhail364/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1424,6 +1425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/mohammedsuhail364/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/mohammedsuhail364/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -1587,6 +1589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3462-vowels-game-in-a-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mohammedsuhail364/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3524-find-x-value-of-array-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/mohammedsuhail364/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3548-find-the-count-of-good-integers](https://github.com/mohammedsuhail364/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mohammedsuhail364/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
