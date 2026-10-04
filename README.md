@@ -1192,6 +1192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/mohammedsuhail364/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0609-find-duplicate-file-in-system](https://github.com/mohammedsuhail364/LeetCode/tree/master/0609-find-duplicate-file-in-system) |
 | [0657-robot-return-to-origin](https://github.com/mohammedsuhail364/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/mohammedsuhail364/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/mohammedsuhail364/LeetCode/tree/master/0721-accounts-merge) |
@@ -1372,6 +1373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/mohammedsuhail364/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/mohammedsuhail364/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mohammedsuhail364/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/mohammedsuhail364/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0740-delete-and-earn](https://github.com/mohammedsuhail364/LeetCode/tree/master/0740-delete-and-earn) |
@@ -2034,6 +2036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/mohammedsuhail364/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mohammedsuhail364/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/mohammedsuhail364/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mohammedsuhail364/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0763-partition-labels](https://github.com/mohammedsuhail364/LeetCode/tree/master/0763-partition-labels) |
@@ -2362,6 +2365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mohammedsuhail364/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/mohammedsuhail364/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mohammedsuhail364/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mohammedsuhail364/LeetCode/tree/master/0739-daily-temperatures) |
@@ -2825,6 +2829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mohammedsuhail364/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mohammedsuhail364/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mohammedsuhail364/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mohammedsuhail364/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohammedsuhail364/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohammedsuhail364/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
