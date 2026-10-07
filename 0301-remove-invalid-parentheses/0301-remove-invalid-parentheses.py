@@ -1,39 +1,37 @@
 class Solution:
-    def removeInvalidParentheses(self, s: str) -> List[str]:
-        def is_valid(s):
-            count=0
-            for i in s:
-                if i=='(':
-                    count+=1
-                elif i==')':
-                    count-=1
-                    if count<0:
-                        return False
-            return count==0
-
-        q=deque([s])
-        visited=set([s])
+    def removeInvalidParentheses(self, s: str) -> list[str]:
+        # this question normally intuates the dfs solution but doing dfs is not a great thing 
+        # why because if we find the level of which is the minimum removal means we dont try other higher levels 
+        # so it automatically drives into bfs solution basically try every possibilities but with level by level
+        def is_valid(val):
+            brackets = 0
+            for i in val:
+                if i=="(":brackets+=1
+                elif i==")":
+                    brackets-=1
+                    if brackets<0:return False
+            return brackets==0
+        q=deque([(s)])
+        visited=set()
         res=[]
-        found=False
+        found = False
         while q:
-            size=len(q)
-            for _ in range(size):
-                cur=q.popleft()
-                if is_valid(cur):
-                    res.append(cur)
-                    found=True
-                    continue   
-                for i in range(len(cur)):
-                    if cur[i] not in '()':
+            
+            n=len(q)
+            for _ in range(n):
+                val = q.popleft()
+                if is_valid(val):
+                    res.append(val)
+                    found = True
+                    continue
+                for i in range(len(val)): # try all possibities without involving letters
+                    if val[i] not in "()":
                         continue
-                    next_str=cur[:i]+cur[i+1:]
+                    next_str=val[:i]+val[i+1:]
                     if next_str not in visited:
-                        visited.add(next_str)
                         q.append(next_str)
-            if found:
-                break # because we get the minimal removal one (level wise)
-        return res
+                        visited.add(next_str)
 
-             
-            
-            
+            if found:
+                break # this logic differs the bfs sol is better than dfs we break after reach the minimum level after this we cannot because already we remove some thing after this we remove some other thing so that is not a minimum level
+        return res
