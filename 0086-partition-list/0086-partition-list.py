@@ -5,21 +5,17 @@
 #         self.next = next
 class Solution:
     def partition(self, head: ListNode | None, x: int) -> ListNode | None:
-        nums=[]
+        left=ListNode()
+        right=ListNode()
+        ltail,rtail=left,right
         while head:
-            nums.append(head.val)
-            head = head.next
-        # split the array
-        less=[]
-        greater =[]
-        for i in nums:
-            if i<x:
-                less.append(i)
+            if head.val<x:
+                ltail.next=head
+                ltail=ltail.next
             else:
-                greater.append(i)
-        head=ListNode()
-        cur=head
-        for x in less+greater:
-            cur.next=ListNode(x)
-            cur=cur.next
-        return head.next
+                rtail.next=head
+                rtail=rtail.next
+            head=head.next
+        ltail.next = right.next
+        rtail.next=None
+        return left.next
