@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/mohammedsuhail364/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohammedsuhail364/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mohammedsuhail364/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohammedsuhail364/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mohammedsuhail364/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/mohammedsuhail364/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mohammedsuhail364/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohammedsuhail364/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mohammedsuhail364/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -2103,6 +2105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/mohammedsuhail364/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/mohammedsuhail364/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mohammedsuhail364/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mohammedsuhail364/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/mohammedsuhail364/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -2166,6 +2169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/mohammedsuhail364/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/mohammedsuhail364/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mohammedsuhail364/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/mohammedsuhail364/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/mohammedsuhail364/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
