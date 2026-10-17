@@ -508,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/mohammedsuhail364/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/mohammedsuhail364/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/mohammedsuhail364/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohammedsuhail364/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/mohammedsuhail364/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0202-happy-number) |
@@ -1926,6 +1927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/mohammedsuhail364/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/mohammedsuhail364/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/mohammedsuhail364/LeetCode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/mohammedsuhail364/LeetCode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/mohammedsuhail364/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohammedsuhail364/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/mohammedsuhail364/LeetCode/tree/master/0203-remove-linked-list-elements) |
@@ -1945,6 +1947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/mohammedsuhail364/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/mohammedsuhail364/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mohammedsuhail364/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -2894,5 +2897,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/mohammedsuhail364/LeetCode/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mohammedsuhail364/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
