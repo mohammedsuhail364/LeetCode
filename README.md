@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/mohammedsuhail364/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mohammedsuhail364/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1552-magnetic-force-between-two-balls](https://github.com/mohammedsuhail364/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohammedsuhail364/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/mohammedsuhail364/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mohammedsuhail364/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1612-avoid-flood-in-the-city](https://github.com/mohammedsuhail364/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohammedsuhail364/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mohammedsuhail364/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohammedsuhail364/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mohammedsuhail364/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -883,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mohammedsuhail364/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohammedsuhail364/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mohammedsuhail364/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohammedsuhail364/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mohammedsuhail364/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -1422,6 +1425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/mohammedsuhail364/LeetCode/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/mohammedsuhail364/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohammedsuhail364/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mohammedsuhail364/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mohammedsuhail364/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1628-count-submatrices-with-all-ones](https://github.com/mohammedsuhail364/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1572,6 +1576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/mohammedsuhail364/LeetCode/tree/master/1500-count-largest-group) |
 | [1510-stone-game-iv](https://github.com/mohammedsuhail364/LeetCode/tree/master/1510-stone-game-iv) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/mohammedsuhail364/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohammedsuhail364/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mohammedsuhail364/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/mohammedsuhail364/LeetCode/tree/master/1642-water-bottles) |
@@ -1818,6 +1823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohammedsuhail364/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/mohammedsuhail364/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohammedsuhail364/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1612-avoid-flood-in-the-city](https://github.com/mohammedsuhail364/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/mohammedsuhail364/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -2234,6 +2240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mohammedsuhail364/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/mohammedsuhail364/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohammedsuhail364/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2280-count-good-triplets-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -2652,6 +2659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/mohammedsuhail364/LeetCode/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohammedsuhail364/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mohammedsuhail364/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1761-count-sorted-vowel-strings](https://github.com/mohammedsuhail364/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mohammedsuhail364/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -2706,6 +2714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/mohammedsuhail364/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1013-fibonacci-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/1013-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohammedsuhail364/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mohammedsuhail364/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/mohammedsuhail364/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/mohammedsuhail364/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -2810,6 +2819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/mohammedsuhail364/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/mohammedsuhail364/LeetCode/tree/master/0886-possible-bipartition) |
 | [0990-satisfiability-of-equality-equations](https://github.com/mohammedsuhail364/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohammedsuhail364/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/mohammedsuhail364/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mohammedsuhail364/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohammedsuhail364/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -2899,4 +2909,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/mohammedsuhail364/LeetCode/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mohammedsuhail364/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohammedsuhail364/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
