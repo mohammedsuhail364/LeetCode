@@ -1,33 +1,48 @@
-class LRUCache:
+class Node:
+    def __init__(self,key,val):
+        self.key,self.val=key,val
+        self.prev = self.next = None
 
+class LRUCache:
+    # refer neetcode
     def __init__(self, capacity: int):
-        self.capacity=capacity
-        self.cache = {} # key -> (val,stamp)
-        self.q = deque() # (key,stamp)
-        self.time=0
-    def _touch(self,key,val):
-        self.time+=1
-        self.cache [key] = (val,self.time)
-        self.q.append((key,self.time))
+        self.capacity = capacity
+        self.cache = {} # key -> Node
+        self.left ,self.right = Node(0,0),Node(0,0)
+        self.left.next = self.right
+        self.right.prev = self.left
+
+    def remove(self,node):
+        prev = node.prev
+        nxt = node.next
+        prev.next = nxt
+        nxt.prev = prev
+
+    def insert(self,node):
+        prev = self.right.prev
+        prev.next = node
+        node.next = self.right
+        node.prev = prev
+        self.right.prev = node
+    
     def get(self, key: int) -> int:
-        if key not in self.cache:
-            return -1
-        value = self.cache[key][0]
-        self._touch(key,value)
-        return value
+        if key in self.cache:
+            self.remove(self.cache[key])
+            self.insert(self.cache[key])
+            return self.cache[key].val
+        return -1
 
     def put(self, key: int, value: int) -> None:
-        if key not in self.cache and len(self.cache)==self.capacity:
-            self._evict()
-        self._touch(key,value)
+        if key in self.cache:
+            self.remove(self.cache[key])
+        self.cache[key]=Node(key,value)
+        self.insert(self.cache[key])
+        if len(self.cache)>self.capacity:
+            lru = self.left.next
+            self.remove(lru)
+            del self.cache[lru.key]
 
-    def _evict(self):
-        while self.q:
-            k,t = self.q.popleft()
-            if k in self.cache and self.cache[k][1]==t:
-                del self.cache[k]
-                return
-            
+
 # Your LRUCache object will be instantiated and called as such:
 # obj = LRUCache(capacity)
 # param_1 = obj.get(key)
