@@ -1,32 +1,30 @@
 class Trie:
 
     def __init__(self):
-        self.children={}
-        self.isLast=False
+        self.children ={}
+        self.isLast = False 
 
     def insert(self, word: str) -> None:
-        cur=self
-        for c in word:
-            if c not in cur.children:
-                cur.children[c]=Trie()
-            cur=cur.children[c]
-        cur.isLast=True
-
+        cur = self
+        for w in word:
+            if w not in cur.children:
+                cur.children[w] = Trie()
+            cur=cur.children[w]
+        cur.isLast = True
     def search(self, word: str) -> bool:
-        cur=self
-        for c in word:
-            if c not in cur.children:
+        cur = self
+        for w in word:
+            if w not in cur.children:
                 return False
-            cur=cur.children[c]
+            cur=cur.children[w]
         return cur.isLast
     def startsWith(self, prefix: str) -> bool:
-        cur=self
-        for c in prefix:
-            if c not in cur.children:
+        cur = self
+        for w in prefix:
+            if w not in cur.children:
                 return False
-            cur=cur.children[c]
+            cur=cur.children[w]
         return True
-
 
 # Your Trie object will be instantiated and called as such:
 # obj = Trie()
