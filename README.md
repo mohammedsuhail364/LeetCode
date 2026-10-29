@@ -545,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/mohammedsuhail364/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mohammedsuhail364/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/mohammedsuhail364/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0677-map-sum-pairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/mohammedsuhail364/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/mohammedsuhail364/LeetCode/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/mohammedsuhail364/LeetCode/tree/master/0740-delete-and-earn) |
@@ -1218,6 +1219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/mohammedsuhail364/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0609-find-duplicate-file-in-system](https://github.com/mohammedsuhail364/LeetCode/tree/master/0609-find-duplicate-file-in-system) |
 | [0657-robot-return-to-origin](https://github.com/mohammedsuhail364/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0677-map-sum-pairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/mohammedsuhail364/LeetCode/tree/master/0696-count-binary-substrings) |
@@ -1888,6 +1890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/mohammedsuhail364/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/mohammedsuhail364/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0677-map-sum-pairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/mohammedsuhail364/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [1268-search-suggestions-system](https://github.com/mohammedsuhail364/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mohammedsuhail364/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1989,6 +1992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/mohammedsuhail364/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mohammedsuhail364/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0449-serialize-and-deserialize-bst](https://github.com/mohammedsuhail364/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0677-map-sum-pairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0707-design-linked-list](https://github.com/mohammedsuhail364/LeetCode/tree/master/0707-design-linked-list) |
 | [0729-my-calendar-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0731-my-calendar-ii) |
