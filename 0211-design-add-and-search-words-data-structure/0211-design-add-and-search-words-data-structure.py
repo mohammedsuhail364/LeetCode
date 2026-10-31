@@ -1,33 +1,34 @@
-class WordDictionary:
-
+class Trie:
     def __init__(self):
         self.children={}
         self.isLast=False
 
+class WordDictionary:
+
+    def __init__(self):
+        self.trie=Trie()
+
     def addWord(self, word: str) -> None:
-        cur=self
-        for c in word:
-            if c not in cur.children:
-                cur.children[c]=WordDictionary()
-            cur=cur.children[c]
-        cur.isLast=True
+        cur = self.trie
+        for w in word:
+            if w not in cur.children:
+                cur.children[w] = Trie()
+            cur=cur.children[w]
+        cur.isLast = True 
 
     def search(self, word: str) -> bool:
-            root=self
-            def dfs(j,cur):
-                for i in range(j,len(word)):
-                    if word[i]=='.':
-                        for c in cur.children.values():
-                            if dfs(i+1,c):
-                                return True
-                        return False
-                    else:
-                        if word[i] not in cur.children:
-                            return False
-                        cur=cur.children[word[i]]
-                return cur.isLast
-            return dfs(0,root)
-                
+        def dfs(node,i):
+            if i==len(word):
+                return node.isLast
+            ch = word[i]
+            if ch==".":
+                # try all paths
+                for child in node.children.values():
+                    if dfs(child,i+1):return True
+                return False
+            if ch not in node.children:return False
+            return dfs(node.children[ch],i+1)
+        return dfs(self.trie,0)
 
 
 # Your WordDictionary object will be instantiated and called as such:
