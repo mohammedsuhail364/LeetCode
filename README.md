@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mohammedsuhail364/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mohammedsuhail364/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mohammedsuhail364/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0474-ones-and-zeroes](https://github.com/mohammedsuhail364/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0480-sliding-window-median](https://github.com/mohammedsuhail364/LeetCode/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/mohammedsuhail364/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -1560,6 +1561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/mohammedsuhail364/LeetCode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/mohammedsuhail364/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0445-add-two-numbers-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mohammedsuhail364/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0523-continuous-subarray-sum) |
