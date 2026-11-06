@@ -585,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/mohammedsuhail364/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/mohammedsuhail364/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/mohammedsuhail364/LeetCode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/mohammedsuhail364/LeetCode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1160-letter-tile-possibilities](https://github.com/mohammedsuhail364/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/mohammedsuhail364/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mohammedsuhail364/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -935,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/mohammedsuhail364/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/mohammedsuhail364/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/mohammedsuhail364/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/mohammedsuhail364/LeetCode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohammedsuhail364/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohammedsuhail364/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -1259,6 +1261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mohammedsuhail364/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mohammedsuhail364/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/mohammedsuhail364/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/mohammedsuhail364/LeetCode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1160-letter-tile-possibilities](https://github.com/mohammedsuhail364/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/mohammedsuhail364/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/mohammedsuhail364/LeetCode/tree/master/1189-maximum-number-of-balloons) |
