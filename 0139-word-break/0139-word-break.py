@@ -1,10 +1,12 @@
 class Solution:
     def wordBreak(self, s: str, wordDict: list[str]) -> bool:
-        # check the words from wordDict in the s
-        @cache
-        def dfs(i):
-            if i<0:return True
-            for word in wordDict:
-                if s[i-len(word)+1:i+1]==word and dfs(i-len(word)):return True
-            return False
-        return dfs(len(s)-1)
+        # refer neetcode
+        dp=[False]*(len(s)+1)
+        dp[len(s)]=True # base case
+        for i in range(len(s)-1,-1,-1):
+            for w in wordDict:
+                if (i+len(w)<=len(s) and s[i:i+len(w)]==w):
+                    dp[i]=dp[i+len(w)]
+                if dp[i]:
+                    break
+        return dp[0]
