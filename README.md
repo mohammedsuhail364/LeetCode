@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/mohammedsuhail364/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mohammedsuhail364/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
+| [1882-process-tasks-using-servers](https://github.com/mohammedsuhail364/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mohammedsuhail364/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mohammedsuhail364/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/mohammedsuhail364/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -2330,6 +2331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/mohammedsuhail364/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/mohammedsuhail364/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/mohammedsuhail364/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
+| [1882-process-tasks-using-servers](https://github.com/mohammedsuhail364/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [1917-maximum-average-pass-ratio](https://github.com/mohammedsuhail364/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/mohammedsuhail364/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
