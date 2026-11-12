@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mohammedsuhail364/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/mohammedsuhail364/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mohammedsuhail364/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mohammedsuhail364/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/mohammedsuhail364/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
