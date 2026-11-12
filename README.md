@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/mohammedsuhail364/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mohammedsuhail364/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mohammedsuhail364/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mohammedsuhail364/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mohammedsuhail364/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/mohammedsuhail364/LeetCode/tree/master/0409-longest-palindrome) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohammedsuhail364/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohammedsuhail364/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/mohammedsuhail364/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -1920,6 +1922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/mohammedsuhail364/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/mohammedsuhail364/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/mohammedsuhail364/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0472-concatenated-words](https://github.com/mohammedsuhail364/LeetCode/tree/master/0472-concatenated-words) |
 | [0648-replace-words](https://github.com/mohammedsuhail364/LeetCode/tree/master/0648-replace-words) |
@@ -2226,6 +2229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mohammedsuhail364/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/mohammedsuhail364/LeetCode/tree/master/0401-binary-watch) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0693-binary-number-with-alternating-bits](https://github.com/mohammedsuhail364/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/mohammedsuhail364/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mohammedsuhail364/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
