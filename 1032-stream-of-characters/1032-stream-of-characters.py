@@ -9,7 +9,7 @@ class Trie:
                 cur.children[w]=Trie()
             cur=cur.children[w]
         cur.isLast=True
-    
+from collections import deque 
 
 
 class StreamChecker:
@@ -17,17 +17,18 @@ class StreamChecker:
     def __init__(self, words: list[str]):
         self.root=Trie()
         self.max_len=0
-        self.stream = []
+        
         for word in words:
             self.root.insert(word[::-1])
             self.max_len=max(self.max_len,len(word))
-
+        self.stream = deque(maxlen=self.max_len)
     def query(self, letter: str) -> bool:
         self.stream.append(letter)
+        
         cur=self.root
-        for x in range(len(self.stream)-1,-1,-1):
-            if self.stream[x] not in cur.children:return False
-            cur=cur.children[self.stream[x]]
+        for ch in reversed(self.stream):
+            if ch not in cur.children:return False
+            cur=cur.children[ch]
             if cur.isLast:return True
         return False
 
