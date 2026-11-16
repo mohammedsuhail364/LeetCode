@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/mohammedsuhail364/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1752-arithmetic-subarrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/1752-arithmetic-subarrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mohammedsuhail364/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1803-count-pairs-with-xor-in-a-range](https://github.com/mohammedsuhail364/LeetCode/tree/master/1803-count-pairs-with-xor-in-a-range) |
 | [1813-maximum-erasure-value](https://github.com/mohammedsuhail364/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/mohammedsuhail364/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/mohammedsuhail364/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -1943,6 +1944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/mohammedsuhail364/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mohammedsuhail364/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [1803-count-pairs-with-xor-in-a-range](https://github.com/mohammedsuhail364/LeetCode/tree/master/1803-count-pairs-with-xor-in-a-range) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/mohammedsuhail364/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mohammedsuhail364/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -2259,6 +2261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mohammedsuhail364/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/mohammedsuhail364/LeetCode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mohammedsuhail364/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1803-count-pairs-with-xor-in-a-range](https://github.com/mohammedsuhail364/LeetCode/tree/master/1803-count-pairs-with-xor-in-a-range) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mohammedsuhail364/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/mohammedsuhail364/LeetCode/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mohammedsuhail364/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
