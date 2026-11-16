@@ -1,11 +1,11 @@
 class Trie:
     def __init__(self):
-        self.children={} #(0,1)
+        self.children=[None,None] #(0,1)
     def insert(self,n):
         cur=self
         for i in range(30,-1,-1):
             b = (n>>i)&1 # finds the last bit
-            if b not in cur.children:
+            if cur.children[b] is None:
                 cur.children[b]=Trie()
             cur=cur.children[b]
 class Solution:
@@ -27,7 +27,7 @@ class Solution:
             for i in range(30,-1,-1):
                 b=(x>>i)&1 #find the last bit
                 want = 1 - b # means if b is 1 we get the 0 propably we get the opposite bit
-                if want in cur.children:
+                if cur.children[want]:
                     xor |= (1<<i)
                     cur = cur.children[want]
                 else:
