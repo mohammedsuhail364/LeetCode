@@ -1,4 +1,11 @@
 class Solution:
     def lexicalOrder(self, n: int) -> list[int]:
-        nums=sorted([str(i) for i in range(1,n+1) ])
-        return [int(i) for i in nums]
+        res=[]
+        def dfs(cur):
+            if cur>n:return 
+            res.append(cur)
+            for d in range(10):
+                dfs(cur*10+d)
+        for start in range(1,10):
+            dfs(start)
+        return res
