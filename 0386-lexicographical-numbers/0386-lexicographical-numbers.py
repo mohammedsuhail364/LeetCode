@@ -1,6 +1,4 @@
 class Solution:
-    def lexicalOrder(self, n: int) -> List[int]:
-        li=[str(i) for i in range(1,n+1)]
-        li.sort()
-        res=list(map(int,li))
-        return res
+    def lexicalOrder(self, n: int) -> list[int]:
+        nums=sorted([str(i) for i in range(1,n+1) ])
+        return [int(i) for i in nums]
