@@ -520,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3979-partition-array-into-k-distinct-groups](https://github.com/mohammedsuhail364/LeetCode/tree/master/3979-partition-array-into-k-distinct-groups) |
 ## Hash Table
 |  |
@@ -1859,6 +1860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/mohammedsuhail364/LeetCode/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/mohammedsuhail364/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohammedsuhail364/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -2263,6 +2265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/mohammedsuhail364/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mohammedsuhail364/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/mohammedsuhail364/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -2427,6 +2430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/mohammedsuhail364/LeetCode/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/mohammedsuhail364/LeetCode/tree/master/3863-power-grid-maintenance) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/mohammedsuhail364/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Merge Sort
 |  |
 | ------- |
